@@ -1,0 +1,260 @@
+﻿Drink A (Glass Lower Left)|飲み物A（グラス　左下）
+Drink A (Glass)|飲み物A（グラス）
+Drink A (Glass Upper Right)|飲み物A（グラス　右上）
+Drink A (Glass Upper Left)|飲み物A（グラス　左上）
+Drink B (Glass Lower Left)|飲み物B（グラス　左下）
+Drink B (Glass)|飲み物B（グラス）
+Drink B (Glass Upper Right)|飲み物B（グラス　右上）
+Drink B (Glass Upper Left)|飲み物B（グラス　左上）
+Drink C (Glass)|飲み物C（グラス）
+Drink C (Glass Upper)|飲み物C（グラス　上）
+Drink C (Glass Upper Right)|飲み物C（グラス　右上）
+Drink C (Glass Upper Left)|飲み物C（グラス　左上）
+Drink D (Glass Lower Left)|飲み物D（グラス　左下）
+Drink D (Glass Right)|飲み物D（グラス　右）
+Drink D (Glass Upper Right)|飲み物C（グラス　右上）
+Drink D (Glass Upper Left)|飲み物C（グラス　左上）
+Drink E (Glass Lower Left)|飲み物E（グラス　左下）
+Drink E (Glass)|飲み物E（グラス）
+Drink E (Glass Upper Right)|飲み物E（グラス　右上）
+Drink E (Glass Upper Left)|飲み物E（グラス　左上）
+Goblet (Lower Left)|ゴブレット（左下）
+Goblet|ゴブレット
+Goblet (Upper Right)|ゴブレット（グラス　右上）
+Goblet (Upper Left)|ゴブレット（グラス　左上）
+Drink F (Glass)|飲み物F（グラス）
+Drink F (Glass Lower Right)|飲み物F（グラス　右下）
+Drink F (Glass Upper)|飲み物F（グラス　上）
+Drink F (Glass Upper Left)|飲み物F（グラス　左上）
+Drink G (Glass Lower Left)|飲み物G（グラス　左下）
+Drink G (Glass Lower Right)|飲み物G（グラス　右下）
+Drink G (Glass Right)|飲み物G（グラス　右）
+Drink G (Glass Left)|飲み物G（グラス　左）
+Drink H (Glass Left)|飲み物H（グラス　左）
+Drink H (Glass Right)|飲み物H（グラス　右）
+Drink H (Glass Upper Right)|飲み物H（グラス　右上）
+Drink H (Glass Upper Left)|飲み物H（グラス　左上）
+Drink I (Glass Left)|飲み物I（グラス　左）
+Drink I (Glass Right)|飲み物I（グラス　右）
+Drink I (Glass Upper Right)|飲み物I（グラス　右上）
+Drink I (Glass Upper Left)|飲み物I（グラス　左上）
+Drink J (Glass Lower Left)|飲み物J（グラス　左下）
+Drink J (Glass Lower Right)|飲み物J（グラス　右下）
+Drink J (Glass Upper Right)|飲み物J（グラス　右上）
+Drink J (Glass Upper Left)|飲み物J（グラス　左上）
+Drink K (Glass Left)|飲み物K（グラス　左）
+Drink K (Glass Right)|飲み物K（グラス　右）
+Drink K (Glass Upper Right)|飲み物K（グラス　右上）
+Drink K (Glass Upper Left)|飲み物K（グラス　左上）
+Drink L (Glass)|飲み物L（グラス）
+Drink L (Glass Lower Right)|飲み物L（グラス　右下）
+Drink L (Glass Upper)|飲み物L（グラス　上）
+Drink L (Glass Upper Left)|飲み物L（グラス　左上）
+Drink M (Glass Lower Left)|飲み物M（グラス　左下）
+Drink M (Glass Lower Right)|飲み物M（グラス　右下）
+Drink M (Glass Upper Right)|飲み物M（グラス　右上）
+Drink M (Glass Upper Left)|飲み物M（グラス　左上）
+Drink A (Cup Lower Left)|飲み物A（カップ　左下）
+Drink A (Cup Left)|飲み物A（カップ　左）
+Drink A (Cup Upper Right)|飲み物A（カップ　右上）
+Drink A (Cup Upper Left)|飲み物A（カップ　左上）
+Drink N (Glass Lower Left)|飲み物N（グラス　左下）
+Drink N (Glass Lower Right)|飲み物N（グラス　右下）
+Drink N (Glass Upper Right)|飲み物N（グラス　右上）
+Drink N (Glass Upper Left)|飲み物N（グラス　左上）
+Drink O (Glass Lower Left)|飲み物O（グラス　左下）
+Drink O (Glass)|飲み物O（グラス）
+Drink O (Glass Right)|飲み物O（グラス　右）
+Drink O (Glass Left)|飲み物O（グラス　左）
+Drink B (Cup Upper Right)|飲み物B（カップ　右上）
+Drink B (Cup)|飲み物B（カップ）
+Drink B (Cup Upper Left)|飲み物B（カップ　左上）
+Drink B (Cup Upper)|飲み物B（カップ　上）
+Drink P (Glass Lower Left)|飲み物P（グラス　左下）
+Drink P (Glass Right)|飲み物P（グラス　右）
+Drink P (Glass Upper Right)|飲み物P（グラス　右上）
+Drink P (Glass Upper Left)|飲み物P（グラス　左上）
+Green Tea (Lower Left)|日本茶（左下）
+Green Tea (Lower Right)|日本茶（右下）
+Green Tea (Upper)|日本茶（上）
+Green Tea (Upper Left)|日本茶（左上）
+Drink C (Cup Lower Left)|飲み物C（カップ　左下）
+Drink C (Cup)|飲み物C（カップ）
+Drink C (Cup Upper)|飲み物C（カップ　上）
+Drink C (Cup Upper Left)|飲み物C（カップ　左上）
+Drink Q (Glass Lower Left)|飲み物Q（グラス　左下）
+Drink Q (Glass Right)|飲み物Q（グラス　右）
+Drink Q (Glass Upper Right)|飲み物Q（グラス　右上）
+Drink Q (Glass Upper Left)|飲み物Q（グラス　左上）
+Drink D (Cup Lower Left)|飲み物D（カップ　左下）
+Drink D (Cup Right)|飲み物D（カップ　右）
+Drink D (Cup Upper)|飲み物D（カップ　上）
+Drink D (Cup Upper Left)|飲み物D（カップ　左上）
+Drink R (Glass Left)|飲み物R（グラス　左）
+Drink R (Glass Right)|飲み物R（グラス　右）
+Drink R (Glass Upper Right)|飲み物R（グラス　右上）
+Drink R (Glass Upper Left)|飲み物R（グラス　左上）
+Drink E (Cup Left)|飲み物E（カップ　左）
+Drink E (Cup Lower Right)|飲み物E（カップ　右下）
+Drink E (Cup Upper Right)|飲み物E（カップ　右上）
+Drink E (Cup Upper Left)|飲み物E（カップ　左上）
+Drink S (Glass)|飲み物S（グラス）
+Drink S (Glass Lower Right)|飲み物S（グラス　右下）
+Drink S (Glass Upper Right)|飲み物S（グラス　右上）
+Drink S (Glass Upper Left)|飲み物S（グラス　左上）
+Drink T (Glass Left)|飲み物T（グラス　左）
+Drink T (Glass Lower Right)|飲み物T（グラス　右下）
+Drink T (Glass Upper Right)|飲み物T（グラス　右上）
+Drink T (Glass Upper Left)|飲み物T（グラス　左上）
+Drink F (Cup Left)|飲み物F（カップ　左）
+Drink F (Cup Right)|飲み物F（カップ　右）
+Drink F (Cup Upper Right)|飲み物F（カップ　右上）
+Drink F (Cup Upper Left)|飲み物F（カップ　左上）
+Drink G (Cup Lower Left)|飲み物G（カップ　左下）
+Drink G (Cup Lower Right)|飲み物G（カップ　右下）
+Drink G (Cup Upper Right)|飲み物G（カップ　右上）
+Drink G (Cup Upper Left)|飲み物G（カップ　左上）
+Drink U (Glass Lower Left)|飲み物U（グラス　左下）
+Drink U (Glass Right)|飲み物U（グラス　右）
+Drink U (Glass Upper Right)|飲み物U（グラス　右上）
+Drink U (Glass Upper Left)|飲み物U（グラス　左上）
+Drink H (Cup Lower Left)|飲み物H（カップ　左下）
+Drink H (Cup Lower Right)|飲み物H（カップ　右下）
+Drink H (Cup Upper Right)|飲み物H（カップ　右上）
+Drink H (Cup Upper Left)|飲み物H（カップ　左上）
+Drink I (Cup Lower Left)|飲み物I（カップ　左下）
+Drink I (Cup Lower Right)|飲み物I（カップ　右下）
+Drink I (Cup Upper)|飲み物I（カップ　上）
+Drink I (Cup Upper Left)|飲み物I（カップ　左上）
+Drink J (Cup Lower Left)|飲み物J（カップ　左下）
+Drink J (Cup Lower Right)|飲み物J（カップ　右下）
+Drink J (Cup Upper Right)|飲み物J（カップ　右上）
+Drink J (Cup Upper Left)|飲み物J（カップ　左上）
+Drink V (Glass Left)|飲み物V（グラス　左）
+Drink V (Glass Lower Right)|飲み物V（グラス　右下）
+Drink V (Glass Upper Right)|飲み物V（グラス　右上）
+Drink V (Glass Upper Left)|飲み物V（グラス　左上）
+Drink W (Glass Left)|飲み物W（グラス　左）
+Drink W (Glass Right)|飲み物W（グラス　右）
+Drink W (Glass Upper Right)|飲み物LW（グラス　右上）
+Drink W (Glass Upper Left)|飲み物W（グラス　左上）
+Drink X (Glass Left)|飲み物X（グラス　左）
+Drink X (Glass Right)|飲み物X（グラス　右）
+Drink X (Glass Upper Right)|飲み物X（グラス　右上）
+Drink X (Glass Upper Left)|飲み物X（グラス　左上）
+Drink Y (Glass Left)|飲み物Y（グラス　左）
+Drink Y (Glass Lower Right)|飲み物Y（グラス　右下）
+Drink Y (Glass Upper Right)|飲み物Y（グラス　右上）
+Drink Y (Glass Upper Left)|飲み物Y（グラス　左上）
+Drink Z (Glass Lower Left)|飲み物Z（グラス　左下）
+Drink Z (Glass Right)|飲み物Z（グラス　右）
+Drink Z (Glass Upper Right)|飲み物Z（グラス　右上）
+Drink Z (Glass Upper Left)|飲み物Z（グラス　左上）
+Drink A2 (Glass Lower Left)|飲み物A2（グラス　左下）
+Drink A2 (Glass Right)|飲み物A2（グラス　右）
+Drink A2 (Glass Upper Right)|飲み物A2（グラス　右上）
+Drink A2 (Glass Upper Left)|飲み物A2（グラス　左上）
+Beer (Lower Left)|ビール（左下）
+Beer (Right)||ビール（右）
+Beer (Upper Right)|ビール（右上）
+Beer (Upper Left)|ビール（左上）
+Drink B2 (Glass Left)|飲み物B2（グラス　左）
+Drink B2 (Glass Right)|飲み物B2（グラス　右）
+Drink B2 (Glass Upper Right)|飲み物B2（グラス　右上）
+Drink B2 (Glass Upper Left)|飲み物B2（グラス　左上）
+Drink C2 (Glass Left)|飲み物C2（グラス　左）
+Drink C2 (Glass Right)|飲み物C2（グラス　右）
+Drink C2 (Glass Upper Right)|飲み物C2（グラス　右上）
+Drink C2 (Glass Upper Left)|飲み物C2（グラス　左上）
+Drink D2 (Glass Left)|飲み物D2（グラス　左）
+Drink D2 (Glass Right)|飲み物D2（グラス　右）
+Drink D2 (Glass Upper Right)|飲み物D2（グラス　右上）
+Drink D2 (Glass Upper Left)|飲み物D2（グラス　左上）
+Drink E2 (Glass Lower Left)|飲み物E2（グラス　左下）
+Drink E2 (Glass Right)|飲み物E2（グラス　右）
+Drink E2 (Glass Upper Right)|飲み物E2（グラス　右上）
+Drink E2 (Glass Upper Left)|飲み物E2（グラス　左上）
+Drink F2 (Glass Lower Left)|飲み物F2（グラス　左下）
+Drink F2 (Glass Right)|飲み物F2（グラス　右）
+Drink F2 (Glass Upper Right)|飲み物F2（グラス　右上）
+Drink F2 (Glass Upper Left)|飲み物F2（グラス　左上）
+Drink G2 (Glass Lower Left)|飲み物G2（グラス　左下）
+Drink G2 (Glass Lower Right)|飲み物G2（グラス　右下）
+Drink G2 (Glass Upper)|飲み物G2（グラス　上）
+Drink G2 (Glass Upper Left)|飲み物G2（グラス　左上）
+Drink H2 (Glass Left)|飲み物H2（グラス　左）
+Drink H2 (Glass Right)|飲み物H2（グラス　右）
+Drink H2 (Glass Upper Right)|飲み物H2（グラス　右上）
+Drink H2 (Glass Upper Left)|飲み物H2（グラス　左上）
+Drink I2 (Glass Left)|飲み物I2（グラス　左）
+Drink I2 (Glass Right)|飲み物I2（グラス　右）
+Drink I2 (Glass Upper)|飲み物I2（グラス　上）
+Drink I2 (Glass Upper Left)|飲み物I2（グラス　左上）
+Drink J2 (Glass Left)|飲み物J2（グラス　左）
+Drink J2 (Glass Right)|飲み物J2（グラス　右）
+Drink J2 (Glass Upper Right)|飲み物J2（グラス　右上）
+Drink J2 (Glass Upper Left)|飲み物J2（グラス　左上）
+Sake A|日本酒A
+Sake A (Right)|日本酒A（右）
+Sake A (Upper Right)|日本酒A（右上）
+Sake A (Upper Left)|日本酒A（左上）
+Sake B (Lower Left)|日本酒B（左下）
+Sake B|日本酒B
+Sake B (Upper Right)|日本酒B（右上）
+Sake B (Upper Left)|日本酒B（左上）
+Ochoko (Upper)|おちょこ（上）
+Ochoko|おちょこ
+Ochoko (Upper Left)|おちょこ（左上）
+Ochoko (Upper Right)|おちょこ（右上）
+Ochoko (Lower Left)|おちょこ（左下）
+Ochoko (Lower Right)|おちょこ（右下）
+Ochoko (Middle Right)|おちょこ（真ん中右）
+Ochoko (Middle Left)|おちょこ（真ん中左）
+Sake A (Bottle)|日本酒A（瓶）
+Sake B (Bottle)|日本酒B（瓶）
+Sake C (Bottle)|日本酒C（瓶）
+Sake D (Bottle)|日本酒D（瓶）
+Sake E (Bottle)|日本酒E（瓶）
+Sake F (Bottle)|日本酒F（瓶）
+Sake G (Bottle)|日本酒G（瓶）
+Sake H (Bottle)|日本酒H（瓶）
+Sake A (Bottle)|日本酒A（瓶）
+Sake B (Bottle)|日本酒B（瓶）
+Sake C (Bottle)|日本酒C（瓶）
+Sake D (Bottle)|日本酒D（瓶）
+Sake E (Bottle)|日本酒E（瓶）
+Sake F (Bottle)|日本酒F（瓶）
+Sake G (Bottle)|日本酒G（瓶）
+Sake H (Bottle)|日本酒H（瓶）
+Sake A (Bottles)|日本酒A（複数瓶）
+Sake A (Bottles)|日本酒A（複数瓶）
+Sake B (Bottles)|日本酒B（複数瓶）
+Sake B (Bottles)|日本酒B（複数瓶）
+Sake C (Bottles)|日本酒C（複数瓶）
+Sake C (Bottles)|日本酒C（複数瓶）
+Sake D (Bottles)|日本酒D（複数瓶）
+Sake D (Bottles)|日本酒D（複数瓶）
+Sake A (Bottles)|日本酒A（複数瓶）
+Sake A (Bottles)|日本酒A（複数瓶）
+Sake B (Bottles)|日本酒B（複数瓶）
+Sake B (Bottles)|日本酒B（複数瓶）
+Sake C (Bottles)|日本酒C（複数瓶）
+Sake C (Bottles)|日本酒C（複数瓶）
+Sake D (Bottles)|日本酒D（複数瓶）
+Sake D (Bottles)|日本酒D（複数瓶）
+Sake E (Bottles)|日本酒E（複数瓶）
+Sake E (Bottles)|日本酒E（複数瓶）
+Sake F (Bottles)|日本酒F（複数瓶）
+Sake F (Bottles)|日本酒F（複数瓶）
+Sake G (Bottles)|日本酒G（複数瓶）
+Sake G (Bottles)|日本酒G（複数瓶）
+Sake H (Bottles)|日本酒H（複数瓶）
+Sake H (Bottles)|日本酒H（複数瓶）
+Sake E (Bottles)|日本酒E（複数瓶）
+Sake E (Bottles)|日本酒E（複数瓶）
+Sake F (Bottles)|日本酒F（複数瓶）
+Sake F (Bottles)|日本酒F（複数瓶）
+Sake G (Bottles)|日本酒G（複数瓶）
+Sake G (Bottles)|日本酒G（複数瓶）
+Sake H (Bottles)|日本酒H（複数瓶）
+Sake H (Bottles)|日本酒H（複数瓶）

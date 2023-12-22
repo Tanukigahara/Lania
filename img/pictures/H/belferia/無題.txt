@@ -1,0 +1,47 @@
+
+
+
+放尿　草の位置メモ
+
+草１　X203 Y242
+   →X17
+
+
+草２　X417 Y242
+   →X518
+
+H/belferia/A/kiss
+H/belferia/A/H1
+H/belferia/A/H2_1
+H/belferia/A/H2_2
+
+
+H/frand/A/kusa
+
+$gameScreen.showPicture(1,"H/belferia/A/kiss",0,0,0,100,100,0,0)
+$gameScreen.showPicture(2,"H/belferia/A/H1",0,0,0,100,100,0,0)
+$gameScreen.showPicture(3,"H/belferia/A/H1_1",0,0,0,100,100,0,0)
+$gameScreen.showPicture(4,"H/belferia/A/H1_2",0,0,0,100,100,0,0)
+$gameScreen.showPicture(5,"H/belferia/A/H1_3",0,0,0,100,100,0,0)
+$gameScreen.showPicture(6,"H/belferia/A/H2_1",0,0,0,100,100,0,0)
+$gameScreen.showPicture(7,"H/belferia/A/H2_2",0,0,0,100,100,0,0)
+$gameScreen.showPicture(8,"H/belferia/A/H2_3",0,0,0,100,100,0,0)
+$gameScreen.showPicture(9,"H/belferia/A/H2_4",0,0,0,100,100,0,0)
+$gameScreen.showPicture(10,"H/belferia/A/H2_5",0,0,0,100,100,0,0)
+$gameScreen.showPicture(11,"H/belferia/A/H2_6",0,0,0,100,100,0,0)
+
+
+
+$gameScreen.movePicture(1,0,0,0,100,100,255,0,30)
+$gameScreen.movePicture(1,0,0,0,100,100,255,0,30)
+$gameScreen.movePicture(1,0,0,0,100,100,255,0,30)
+
+
+
+H\frand\A
+
+
+
+C:\Users\TM\Dropbox\狸ケ原\エロRPG企画\青い翼のラニア\作業用データ\青い翼のラニア\img\pictures\H\belferia
+
+

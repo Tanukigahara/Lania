@@ -1,0 +1,256 @@
+Knives A|短剣A
+Knives B|短剣B
+Knives C|短剣C
+Knives D|短剣D
+Knives E|短剣E
+Knives F|短剣F
+Knives G|短剣G
+Knives H|短剣H
+Sword A|剣A
+Sword B|剣B
+Sword C|剣C
+Sword D|剣D
+Sword E|剣E
+Sword F|剣F
+Sword G|剣G
+Sword H|剣H
+Sword A|剣A
+Sword B|剣B
+Sword C|剣C
+Sword D|剣D
+Sword E|剣E
+Sword F|剣F
+Sword G|剣G
+Sword H|剣H
+Sword I|剣I
+Sword J|剣J
+Sword K|剣K
+Sword L|剣L
+Sword M|剣M
+Sword N|剣N
+Sword O|剣O
+Sword P|剣P
+Sword I|剣I
+Sword J|剣J
+Sword K|剣K
+Sword L|剣L
+Sword M|剣M
+Sword N|剣N
+Sword O|剣O
+Sword P|剣P
+Long Sword A|大剣A
+Long Sword B|大剣B
+Long Sword C|大剣C
+Long Sword D|大剣D
+Long Sword E|大剣E
+Long Sword F|大剣F
+Long Sword G|大剣G
+Long Sword H|大剣H
+Long Sword A|大剣A
+Long Sword B|大剣B
+Long Sword C|大剣C
+Long Sword D|大剣D
+Long Sword E|大剣E
+Long Sword F|大剣F
+Long Sword G|大剣G
+Long Sword H|大剣H
+Long Sword I|大剣I
+Long Sword J|大剣J
+Long Sword K|大剣K
+Long Sword L|大剣L
+Long Sword M|大剣M
+Long Sword N|大剣N
+Long Sword O|大剣O
+Long Sword P|大剣P
+Long Sword I|大剣I
+Long Sword J|大剣J
+Long Sword K|大剣K
+Long Sword L|大剣L
+Long Sword M|大剣M
+Long Sword N|大剣N
+Long Sword O|大剣O
+Long Sword P|大剣P
+Axe A|斧A
+Axe B|斧B
+Axe C|斧C
+Axe D|斧D
+Axe E|斧E
+Axe F|斧F
+Axe G|斧G
+Axe H|斧H
+Battle Axe A|戦斧A
+Battle Axe B|戦斧B
+Battle Axe C|戦斧C
+Battle Axe D|戦斧D
+Mace A|戦棍A
+Mace B|戦棍B
+Mace C|戦棍C
+Mace D|戦棍D
+Battle Axe A|戦斧A
+Battle Axe B|戦斧B
+Battle Axe C|戦斧C
+Battle Axe D|戦斧D
+Mace A|戦棍A
+Mace B|戦棍B
+Mace C|戦棍C
+Mace D|戦棍D
+Flail A|連接棍A
+Flail B|連接棍B
+War Hammer A|戦槌A
+War Hammer B|戦槌B
+War Hammer C|戦槌C
+War Hammer D|戦槌D
+War Hammer E|戦槌E
+War Hammer F|戦槌F
+Hammer A|槌A
+Hammer B|槌B
+War Hammer A|戦槌A
+War Hammer B|戦槌B
+War Hammer C|戦槌C
+War Hammer D|戦槌D
+War Hammer E|戦槌E
+War Hammer F|戦槌F
+Spear A|槍A
+Spear B|槍B
+Spear C|槍C
+Spear D|槍D
+Spear E|槍E
+Spear F|槍F
+Spear G|槍G
+Spear H|槍H
+Spear A|槍A
+Spear B|槍B
+Spear C|槍C
+Spear D|槍D
+Spear E|槍E
+Spear F|槍F
+Spear G|槍G
+Spear H|槍H
+Spear I|槍I
+Spear J|槍J
+Spear K|槍K
+Spear L|槍L
+Lance A|騎槍A
+Lance B|騎槍B
+Lance C|騎槍C
+Lance D|騎槍D
+Spear I|槍I
+Spear J|槍J
+Spear K|槍K
+Spear L|槍L
+Lance A|騎槍A
+Lance B|騎槍B
+Lance C|騎槍C
+Lance D|騎槍D
+Whip A|鞭A
+Whip B|鞭B
+Whip C|鞭C
+Whip D|鞭D
+Whip E|鞭E
+Whip F|鞭F
+Whip G|鞭G
+Whip H|鞭H
+Wand A|杖A
+Wand B|杖B
+Wand C|杖C
+Wand D|杖D
+Wand E|杖E
+Wand F|杖F
+Wand G|杖G
+Wand H|杖H
+Wand A|杖A
+Wand B|杖B
+Wand C|杖C
+Wand D|杖D
+Wand E|杖E
+Wand F|杖F
+Wand G|杖G
+Wand H|杖H
+Wand I|杖I
+Wand J|杖J
+Wand K|杖K
+Wand L|杖L
+Staff A|長杖A
+Staff B|長杖B
+Staff C|長杖C
+Staff D|長杖D
+Wand I|杖I
+Wand J|杖J
+Wand K|杖K
+Wand L|杖L
+Staff A|長杖A
+Staff B|長杖B
+Staff C|長杖C
+Staff D|長杖D
+Staff E|長杖E
+Staff F|長杖F
+Staff G|長杖G
+Staff H|長杖H
+Staff I|長杖I
+Staff J|長杖J
+Staff K|長杖K
+Staff L|長杖L
+Staff E|長杖E
+Staff F|長杖F
+Staff G|長杖G
+Staff H|長杖H
+Staff I|長杖I
+Staff J|長杖J
+Staff K|長杖K
+Staff L|長杖L
+Claw A|爪A
+Claw B|爪B
+Claw C|爪C
+Claw D|爪D
+Claw E|爪E
+Claw F|爪F
+Claw G|爪G
+Claw H|爪H
+Bow A|弓A
+Bow B|弓B
+Bow C|弓C
+Bow D|弓D
+Bow E|弓E
+Bow F|弓F
+Large Bow|大弓
+Boomerang A|ブーメランA
+Crossbow A|クロスボウA
+Crossbow B|クロスボウB
+Crossbow C|クロスボウC
+Crossbow D|クロスボウD
+Crossbow E|クロスボウE
+Crossbow F|クロスボウF
+Large Bow|大弓
+Boomerang B|ブーメランB
+Arrow A|矢A
+Arrow B|矢B
+Arrow C|矢C
+Arrow D|矢D
+Arrow E|矢E
+Arrow A (Upper Right Diagonal)|矢A（右斜め上）
+Arrow B (Upper Right Diagonal)|矢B（右斜め上）
+Chakram A|チャクラムA
+Gun A|銃A
+Gun B|銃B
+Gun C|銃C
+Gun D|銃D
+Gun E|銃E
+Gun F|銃F
+Gun G|銃G
+Chakram B|チャクラムB
+Rifle A|ライフル銃A
+Rifle B|ライフル銃B
+Rifle C|ライフル銃C
+Rifle D|ライフル銃D
+Rifle E|ライフル銃E
+Rifle F|ライフル銃F
+Rifle G|ライフル銃G
+Shuriken|手裏剣
+Rifle A|ライフル銃A
+Rifle B|ライフル銃B
+Rifle C|ライフル銃C
+Rifle D|ライフル銃D
+Rifle E|ライフル銃E
+Rifle F|ライフル銃F
+Rifle G|ライフル銃G
+Kunai|クナイ

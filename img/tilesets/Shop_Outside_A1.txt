@@ -1,0 +1,16 @@
+﻿Water A (White Thick Stone)|水場A（白い厚い石）
+Water B (Dark Gray Brick)|水場B（暗灰色レンガ）
+Water C (Wood Fence)|水場C（木柵）
+Water D (Metal Fence)|水場D（金属柵）
+Water E (White Thin Stone)|水場E（白い細い石）
+Waterway A (White Thin Stone)|水路A（白い細い石）
+Water F (Brown Wood)|水場F（茶色木製）
+Waterway B (Brown Wood)|水路B（茶色木製）
+Water G (Brick)|水場G（レンガ）
+Waterfall A (Gray Stone)|滝A（灰色石製）
+Water H (Gray Stone)|水場H（灰色石製）
+Waterfall B (Dark Brick)|滝B（暗レンガ）
+Water I (White Wood)|水場I（白色木製）
+Waterway C (White Wood)|水路C（白色木製）
+Water J (Brow Brick)|水場J（茶色レンガ）
+Waterway D (Brow Brick)|水路D（茶色レンガ）

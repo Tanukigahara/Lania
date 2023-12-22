@@ -1,0 +1,32 @@
+﻿Meadow|草地
+Meadow (Dirt)|草地（土）
+Meadow (Dark Gray Cobblestone)|草地（暗灰色石畳）
+Meadow (Light Gray Cobblestone)|草地（明灰色石畳）
+Jungle (Green)|ジャングル（緑）
+Road Edging (Light Gray)|縁石（明灰色）
+Fence A (Light Gray Wood)|柵A（明灰色木製）
+Fissures A|ひび割れ
+Dirt|土
+Dirt (Meadow)|土（草地）
+Dirt (Dark Gray Cobblestone)|土（暗灰色石畳）
+Dirt (Light Gray Cobblestone)|土（明灰色石畳）
+Jungle (Orange Green)|ジャングル（オレンジ緑）
+Road Edging (White)|縁石（白）
+Fence B (White Stone)|柵B（白石製）
+Fissures B (Dark Gray)|ひび割れB（暗灰色）
+Square Cobblestone|四角石畳
+Square Cobblestone (Meadow)|四角石畳（草地）
+Square Cobblestone (Dark Gray)|四角石畳（暗灰色）
+Square Cobblestone (Light Gray)|四角石畳（明灰色）
+Jungle (Sepia)|ジャングル（セピア）
+Road Edging (Orange)|縁石（オレンジ）
+Fence C (Dark Brown)|柵C（暗茶色）
+Fissures C (Green)|ひび割れC（緑）
+Tile Cobblestone|タイル石畳
+Tile Cobblestone (Meadow)|タイル石畳（草地）
+Tile Cobblestone (Dark Gray)|タイル石畳（暗灰色）
+Tile Cobblestone (Light Gray)|タイル石畳（明灰色）
+Jungle (Blue)|ジャングル（青）
+Road Edging (Gray)|縁石（灰色）
+Fence D (Dark Gray)|柵D（暗灰色）
+Flower Garden|花畑

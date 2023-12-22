@@ -1,0 +1,256 @@
+﻿Transparent A|透明A
+Note A|ノートA（ノート）
+Note B|ノートB（ノート）
+Note C|ノートC（ノート）
+Register (Up)|レジ（上向き）
+Register (Back)|レジ（後ろ向き）
+Register (Left)|レジ（左向き）
+Register (Right)|レジ（右向き）
+Coin|コイン
+Handbell A|ハンドベルA
+Handbell B|ハンドベルB
+Ink|インク
+Register (Up)|レジ（上向き）
+Register (Back)|レジ（後ろ向き）
+Register (Left)|レジ（左向き）
+Register (Right)|レジ（右向き）
+Log Box|丸太箱
+Stone Box|石箱
+Steel Box|鋼箱
+Gold Bar Cart|金棒カート
+Scroll Box|巻物箱
+Crystal Box|鉱石箱
+Anvil|鉄床
+Cooling water|冷却水
+Candelabra A (Top)|燭台A（上半分）
+Candelabra B (Top)|燭台B（上半分）
+Candelabra C (Top)|燭台C（上半分）
+Candelabra D (Top)|燭台D（上半分）
+Signboard (Sword)|看板（剣）
+Signboard (Shield)|看板（盾）
+Signboard (Portion)|看板（薬）
+Signboard (Bed)|看板（ベッド）
+Candelabra A (Bottom)|燭台A（下半分）
+Candelabra B (Bottom)|燭台B（下半分）
+Candelabra C (Bottom)|燭台C（下半分）
+Candelabra D (Bottom)|燭台D（下半分）
+Signboard (Accessory)|看板（アクセサリー）
+Signboard (Magic)|看板（魔法）
+Signboard (Pub)|看板（酒場）
+Signboard (Gamble)|看板（賭け事）
+Weapon Rack A (Top Half A)|武器置きA（上半分A）
+Weapon Rack A (Top Half B)|武器置きA（上半分B）
+Weapon Rack B (Top Half A)|武器置きB（上半分A）
+Weapon Rack B (Top Half B)|武器置きB（上半分B）
+Weapon Rack C (Top Half A)|武器置きC（上半分A）
+Weapon Rack C (Top Half B)|武器置きC（上半分B）
+Weapon Rack D (Top Half A)|武器置きD（上半分A）
+Weapon Rack D (Top Half B)|武器置きD（上半分B）
+Weapon Rack A (Bottom Half A)|武器置きA（下半分A）
+Weapon Rack A (Bottom Half B)|武器置きA（下半分B）
+Weapon Rack B (Bottom Half A)|武器置きB（下半分A）
+Weapon Rack B (Bottom Half B)|武器置きB（下半分B）
+Weapon Rack C (Bottom Half A)|武器置きC（下半分A）
+Weapon Rack C (Bottom Half B)|武器置きC（下半分B）
+Weapon Rack D (Bottom Half A)|武器置きD（下半分A）
+Weapon Rack D (Bottom Half B)|武器置きD（下半分B）
+Wood Table A (Half A)|木製机A（半分A）
+Wood Table A (Half B)|木製机A（半分B）
+Wood Table A|木製机A
+Wood Table B (Half A)|木製机B（半分A）
+Wood Table B (Half B)|木製机B（半分B）
+Wood Table B|木製机B
+Torsot A (Top Half)|トルソーA（上半分）
+Torsot B (Top Half)|トルソーB（上半分）
+Wood Table C (Half A)|木製机C（半分A）
+Wood Table C (Half B)|木製机C（半分B）
+Wood Table C|木製机C
+Wood Table D (Half A)|木製机D（半分A）
+Wood Table D (Half B)|木製机D（半分B）
+Wood Table D|木製机D
+Torsot A (Bottom Half)|トルソーA（下半分）
+Torsot B (Bottom Half)|トルソーB（下半分）
+Large Round Table A (Top Half A)|大型丸テーブルA（上半分A）
+Large Round Table A (Top Half B)|大型丸テーブルA（上半分B）
+Large Round Table B (Top Half A)|大型丸テーブルB（上半分A）
+Large Round Table B (Top Half B)|大型丸テーブルB（上半分B）
+Large Round Table C (Top Half A)|大型丸テーブルC（上半分A）
+Large Round Table C (Top Half B)|大型丸テーブルC（上半分B）
+Large Round Table D (Top Half A)|大型丸テーブルD（上半分A）
+Large Round Table D (Top Half B)|大型丸テーブルD（上半分B）
+Large Round Table A (Bottom Half A)|大型丸テーブルA（下半分A）
+Large Round Table A (Bottom Half B)|大型丸テーブルA（下半分B）
+Large Round Table B (Bottom Half A)|大型丸テーブルB（下半分A）
+Large Round Table B (Bottom Half B)|大型丸テーブルB（下半分B）
+Large Round Table C (Bottom Half A)|大型丸テーブルC（下半分A）
+Large Round Table C (Bottom Half B)|大型丸テーブルC（下半分B）
+Large Round Table D (Bottom Half A)|大型丸テーブルD（下半分A）
+Large Round Table D (Bottom Half B)|大型丸テーブルD（下半分B）
+Round Table A|丸テーブルA
+Round Table B|丸テーブルB
+Round Table C|丸テーブルC
+Round Table D|丸テーブルD
+Small Round Chair A|小丸椅子A
+Small Round Chair B|小丸椅子B
+Small Round Chair C|小丸椅子C
+Small Round Chair D|小丸椅子D
+Wall Clock (Top)|柱時計（上半分）
+Stove (Top)|暖炉（上半分）
+Foliage Plant A (Top)|観葉植物A（上半分）
+Foliage Plant B (Top)|観葉植物B（上半分）
+Shelf A (Top)|棚A（上半分）
+Shelf B (Top)|棚B（上半分）
+Large Shelf A (Top Half A)|大きい棚A（上半分A）
+Large Shelf A (Top Half B)|大きい棚A（上半分B）
+Wall Clock (Bottom)|柱時計（下半分）
+Stove (Bottom)|暖炉（下半分）
+Foliage Plant A (Bottom)|観葉植物A（下半分）
+Foliage Plant B (Bottom)|観葉植物B（下半分）
+Shelf A (Bottom)|棚A（下半分）
+Shelf B (Bottom)|棚B（下半分）
+Large Shelf A (Bottom Half A)|大きい棚A（下半分A）
+Large Shelf A (Bottom Half B)|大きい棚A（下半分B）
+Shelf C (Top)|棚C（上半分）
+Shelf D (Top)|棚D（上半分）
+Large Shelf B (Top Half A)|大きい棚B（上半分A）
+Large Shelf B (Top Half B)|大きい棚B（上半分B）
+Shelf E (Top)|棚C（上半分）
+Shelf F (Top)|棚D（上半分）
+Large Shelf C (Top Half A)|大きい棚C（上半分A）
+Large Shelf C (Top Half B)|大きい棚C（上半分B）
+Shelf C (Bottom)|棚C（下半分）
+Shelf D (Bottom)|棚D（下半分）
+Large Shelf B (Bottom Half A)|大きい棚B（下半分A）
+Large Shelf B (Bottom Half B)|大きい棚B（下半分B）
+Shelf E (Bottom)|棚C（下半分）
+Shelf F (Bottom)|棚D（下半分）
+Large Shelf C (Bottom Half A)|大きい棚C（下半分A）
+Large Shelf C (Bottom Half B)|大きい棚C（下半分B）
+Box A|箱A
+Box B|箱B
+Box C|箱C
+Box D|箱D
+Pot A|壺A
+Pot B|壺B
+Pot C|壺C
+Pot D|壺D
+Curtain A (Top)|カーテンA（上半分）
+Curtain B (Top)|カーテンB（上半分）
+Curtain C (Top)|カーテンC（上半分）
+Curtain D (Top)|カーテンD（上半分）
+Curtain E (Top)|カーテンE（上半分）
+Curtain F (Top)|カーテンF（上半分）
+Curtain G (Top)|カーテンG（上半分）
+Mirror (Top)|鏡（上半分）
+Curtain A (Bottom)|カーテンA（下半分）
+Curtain B (Bottom)|カーテンB（下半分）
+Curtain C (Bottom)|カーテンC（下半分）
+Curtain D (Bottom)|カーテンD（下半分）
+Curtain E (Bottom)|カーテンE（下半分）
+Curtain F (Bottom)|カーテンF（下半分）
+Curtain G (Bottom)|カーテンG（下半分）
+Mirror (Bottom)|鏡（下半分）
+Large Window A (Top Half A)|大きい窓A（上半分A）
+Large Window A (Top Half B)|大きい窓A（上半分B）
+Large Window B (Top Half A)|大きい窓B（上半分A）
+Large Window B (Top Half B)|大きい窓B（上半分B）
+Window A (Top)|窓A（上半分）
+Window B (Top)|窓B（上半分）
+Window C (Top)|窓C（上半分）
+Window D (Top)|窓D（上半分）
+Large Window A (Bottom Half A)|大きい窓A（下半分A）
+Large Window A (Bottom Half B)|大きい窓A（下半分B）
+Large Window B (Bottom Half A)|大きい窓B（下半分A）
+Large Window B (Bottom Half B)|大きい窓B（下半分B）
+Window A (Bottom)|窓A（下半分）
+Window B (Bottom)|窓B（下半分）
+Window C (Bottom)|窓C（下半分）
+Window D (Bottom)|窓D（下半分）
+Large Blue Sofa A (Top Half A)|大型青ソファA（上半分A）
+Large Blue Sofa A (Top Half B)|大型青ソファA（上半分B）
+Large Blue Sofa A (Top Half C)|大型青ソファA（上半分C）
+Large Blue Sofa (Top)|大型青ソファ（上半分）
+Large Green Sofa A (Top Half A)|大型緑色ソファA（上半分A）
+Large Green Sofa A (Top Half B)|大型緑色ソファA（上半分B）
+Large Green Sofa A (Top Half C)|大型緑色ソファA（上半分C）
+Large Green Sofa (Top)|大型緑色ソファ（上半分）
+Large Blue Sofa A (Bottom Half A)|大型青ソファA（下半分A）
+Large Blue Sofa A (Bottom Half B)|大型青ソファA（下半分B）
+Large Blue Sofa A (Bottom Half C)|大型青ソファA（下半分C）
+Large Blue Sofa (Bottom)|大型青ソファ（下半分）
+Large Green Sofa A (Bottom Half A)|大型緑色ソファA（下半分A）
+Large Green Sofa A (Bottom Half B)|大型緑色ソファA（下半分B）
+Large Green Sofa A (Bottom Half C)|大型緑色ソファA（下半分C）
+Large Green Sofa (Bottom)|大型緑色ソファ（下半分）
+Bed A (Top)|ベッドA（上半分）
+Bed B (Top)|ベッドB（上半分）
+Bed C (Top)|ベッドC（上半分）
+Bed D (Top)|ベッドD（上半分）
+Large Bed A (Top Half A)|大ベッドA（上半分A）
+Large Bed A (Top Half B)|大ベッドA（上半分B）
+Large Bed B (Top Half A)|大ベッドB（上半分A）
+Large Bed B (Top Half B)|大ベッドB（上半分B）
+Bed A (Bottom)|ベッドA（下半分）
+Bed B (Bottom)|ベッドB（下半分）
+Bed C (Bottom)|ベッドC（下半分）
+Bed D (Bottom)|ベッドD（下半分）
+Large Bed A (Bottom Half A)|大ベッドA（下半分A）
+Large Bed A (Bottom Half B)|大ベッドA（下半分B）
+Large Bed B (Bottom Half A)|大ベッドB（下半分A）
+Large Bed B (Bottom Half B)|大ベッドB（下半分B）
+Partitioning Screen　A (Top)|衝立A（上半分）
+Partitioning Screen　A (Top)|衝立A（上半分）
+Partitioning Screen　A (Top)|衝立A（上半分）
+Partitioning Screen　B (Top)|衝立B（上半分）
+Partitioning Screen　B (Top)|衝立B（上半分）
+Partitioning Screen　B (Top)|衝立B（上半分）
+Partitioning Screen　A (Top / Vertical)|衝立A（上半分/縦）
+Partitioning Screen　B (Top / Vertical)|衝立B（上半分/縦）
+Partitioning Screen　A (Bottom)|衝立A（下半分）
+Partitioning Screen　A (Bottom)|衝立A（下半分）
+Partitioning Screen　A (Bottom)|衝立A（下半分）
+Partitioning Screen　B (Bottom)|衝立B（下半分）
+Partitioning Screen　B (Bottom)|衝立B（下半分）
+Partitioning Screen　B (Bottom)|衝立B（下半分）
+Partitioning Screen　A (Middle / Vertical)|衝立A（真ん中/縦）
+Partitioning Screen　B (Middle / Vertical)|衝立B（真ん中/縦）
+Ladder A (Top)|はしごA（上半分）
+Ladder B (Top)|はしごB（上半分）
+Rope (Top)|ロープ（上半分）
+Underground Ladder A|地下はしごA
+Underground Ladder B|地下はしごB
+Underground A|地下A
+Partitioning Screen　A (Bottom / Vertical)|衝立A（下半分/縦）
+Partitioning Screen　B (Bottom / Vertical)|衝立B（下半分/縦）
+Ladder A (Middle)|はしごA（真ん中）
+Ladder B (Middle)|はしごB（真ん中）
+Rope (Middle)|ロープ（真ん中）
+Underground Ladder C|地下はしごC
+Underground Ladder D|地下はしごD
+Underground B|地下B
+Square Darkness A|四角い闇A
+Square Darkness B|四角い闇B
+Ladder A (Bottom)|はしごA（下半分）
+Ladder B (Bottom)|はしごB（下半分）
+Rope (Bottom)|ロープ（下半分）
+Underground Ladder E|地下はしごE
+Underground Ladder F|地下はしごF
+Square Darkness C|四角い闇C
+Round Darkness A|丸い闇A
+Round Darkness B|丸い闇B
+Stairs A (Up)|階段A（上り）
+Stairs B (Up)|階段B（上り）
+Stairs C (Up)|階段C（上り）
+Stairs D (Up)|階段D（上り）
+Stairs E (Up)|階段E（上り）
+Stairs F (Up)|階段F（上り）
+Stairs G (Up)|階段G（上り）
+Stairs H (Up)|階段H（上り）
+Underground Stairs A (Down)|地下階段A（下り）
+Underground Stairs B (Down)|地下階段B（下り）
+Underground Stairs C (Down)|地下階段C（下り）
+Underground Stairs D (Down)|地下階段D（下り）
+Underground Stairs E (Down)|地下階段E（下り）
+Underground Stairs F (Down)|地下階段F（下り）
+Underground Stairs G (Down)|地下階段G（下り）
+Underground Stairs H (Down)|地下階段H（下り）

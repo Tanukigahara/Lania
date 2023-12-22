@@ -1,0 +1,128 @@
+﻿Darkness A|暗闇A
+Brown Wood Floor A|茶色木の床A
+Brown Wood Floor B|茶色木の床B
+Brown Wood Floor C|茶色木の床C
+Gray Wood Floor A|灰色木の床A
+Gray Wood Floor B|灰色木の床B
+Gray Wood Floor C|灰色木の床C
+Broken Brown Wood Floor|壊れた茶色木の床
+Transparent|透明
+Shady Brown Wood Floor A|陰になった茶色木の床A
+Shady Brown Wood Floor B|陰になった茶色木の床B
+Shady Brown Wood Floor C|陰になった茶色木の床C
+Shady Gray Wood Floor A|陰になった灰色木の床A
+Shady Gray Wood Floor B|陰になった灰色木の床B
+Shady Gray Wood Floor C|陰になった灰色木の床C
+Broken Gray Wood Floor|壊れた灰色木の床
+Floor (White)|床（白）
+Floor (Beige)|床（ベージュ）
+Floor (Brown)|床（茶色）
+Floor (Blue)|床（青）
+Floor (Green)|床（緑色）
+Floor (Red)|床（赤）
+Floor (Violet)|床（紫）
+Floor (Charcoal)|床（暗灰色）
+Black Line Floor (White)|黒線床（白）
+Black Line Floor (Beige)|黒線床（ベージュ）
+Black Line Floor (Brown)|黒線床（茶色）
+Black Line Floor (Blue)|黒線床（青）
+Black Line Floor (Green)|黒線床（緑色）
+Black Line Floor (Red)|黒線床（赤）
+Black Line Floor (Violet)|黒線床（紫）
+Black Line Floor (Charcoal)|黒線床（暗灰色）
+Cracked Floor (White)|ひび割れた床（白）
+Cracked Floor (Beige)|ひび割れた床（ベージュ）
+Cracked Floor (Brown)|ひび割れた床（茶色）
+Cracked Floor (Blue)|ひび割れた床（青）
+Cracked Floor (Green)|ひび割れた床（緑色）
+Cracked Floor (Red)|ひび割れた床（赤）
+Cracked Floor (Violet)|ひび割れた床（紫）
+Cracked Floor (Charcoal)|ひび割れた床（暗灰色）
+4 Part Floor (White)|4分割床（白）
+4 Part Floor (Beige)|4分割床（ベージュ）
+4 Part Floor (Brown)|4分割床（茶色）
+4 Part Floor (Blue)|4分割床（青）
+4 Part Floor (Green)|4分割床（緑色）
+4 Part Floor (Red)|4分割床（赤）
+4 Part Floor (Violet)|4分割床（紫）
+4 Part Floor (Charcoal)|4分割床（暗灰色）
+Dark Gray Line Floor (White)|ダークグレー線床（白）
+Dark Gray Line Floor (Beige)|ダークグレー線床（ベージュ）
+Dark Gray Line Floor (Brown)ダークグレー線床（茶色）
+Dark Gray Line Floor (Blue)|ダークグレー線床（青）
+Dark Gray Line Floor (Green)|ダークグレー線床（緑色）
+Dark Gray Line Floor (Red)|ダークグレー線床（赤）
+Dark Gray Line Floor (Violet)|ダークグレー線床（紫）
+Dark Gray Line Floor (Charcoal)|ダークグレー線床（暗灰色）
+Cracked 4 Part Floor (White)|ひび割れた4分割床（白）
+Cracked 4 Part Floor (Beige)|ひび割れた4分割床（ベージュ）
+Cracked 4 Part Floor (Brown)|ひび割れた4分割床（茶色）
+Cracked 4 Part Floor (Blue)|ひび割れた4分割床（青）
+Cracked 4 Part Floor (Green)|ひび割れた4分割床（緑色）
+Cracked 4 Part Floor (Red)|ひび割れた4分割床（赤）
+Cracked 4 Part Floor (Violet)|ひび割れた4分割床（紫）
+Cracked 4 Part Floor (Charcoal)|ひび割れた4分割床（暗灰色）
+Square Floor (Gray)|正方形床（灰色）
+Square Floor (Orange)|正方形床（オレンジ色）
+Tile Floor A (Turquoise)|タイル床A（ターコイズ色）
+Tile Floor B (Brown)|タイル床B（茶色）
+Tile Floor C (Multicolor)|タイル床C（マルチカラー）
+Tile Floor D (2color)|タイル床D（2カラー）
+Tile Floor E (Mirror, Green)|タイル床E（鏡・緑色）
+Tile Floor F (Mirror, Blue)|タイル床F（鏡・青）
+Square Floor (Dark Gray)|正方形床（暗い灰色）
+Square Floor (Dark Orange)|正方形床（暗いオレンジ色）
+Tile Floor G (Dark Turquoise)|タイル床G（暗いターコイズ色）
+Tile Floor H (Dark Brown)|タイル床H（暗い茶色）
+Tile Floor I (Dark Multicolor)|タイル床I（暗いマルチカラー）
+Tile Floor J (Gray Hexagon)|タイル床J（灰色亀甲）
+Tatami (Green)|畳（緑色）
+Tatami (Brown)|畳（茶色）
+Cracked Square Floor (Gray)|ひび割れた正方形床（灰色）
+Cracked Square Floor (Orange)|ひび割れた正方形床（オレンジ色）
+Cracked Tile Floor A (Turquoise)|ひび割れたタイル床A（ターコイズ色）
+Cracked Tile Floor B (Brown)|ひび割れたタイル床B（茶色）
+Cracked Tile Floor C (Multicolor)|ひび割れたタイル床C（マルチカラー）
+Tile Floor K (Orange Hexagon)|タイル床K（オレンジ色亀甲）
+Bamboo Floor (Vertical)|竹床（縦）
+Bamboo Floor (Horizontal)|竹床（横）
+Stairs A (Wood, Left)|階段A（木製・左）
+Stairs A (Wood, Center)|階段A（木製・中央）
+Stairs A (Wood, Right)|階段A（木製・右）
+Stairs A (Wood)|階段A（木製）
+Stairs B (Brick, Left)|階段B（れんが製・左）
+Stairs B (Brick, Center)|階段B（れんが製・中央）
+Stairs B (Brick, Right)|階段B（れんが製・右）
+Stairs B (Brick)|階段B（れんが製）
+Stairs C (Stone, Left)|階段C（石製・左）
+Stairs C (Stone, Center)|階段C（石製・中央）
+Stairs C (Stone, Right)|階段C（石製・右）
+Stairs C (Stone)|階段C（石製）
+Stairs D (Orange Stone, Left)|階段D（オレンジ石製・左）
+Stairs D (Orange Stone, Center)|階段D（オレンジ石製・中央）
+Stairs D (Orange Stone, Right)|階段D（オレンジ石製・右）
+Stairs D (Orange Stone)|階段D（オレンジ石製）
+Stairs E (Red Carpet, Left)|階段E（赤じゅうたん・左）
+Stairs E (Red Carpet, Center)|階段E（赤じゅうたん・中央）
+Stairs E (Red Carpet, Right)|階段E（赤じゅうたん・右）
+Stairs E (Red Carpet)|階段E（赤じゅうたん）
+Stairs F (Blue Carpet, Left)|階段F（青じゅうたん・左）
+Stairs F (Blue Carpet, Center)|階段F（青じゅうたん・中央）
+Stairs F (Blue Carpet, Right)|階段F（青じゅうたん・右）
+Stairs F (Blue Carpet)|階段F（青じゅうたん）
+Relief Floor Tile A|レリーフ床A
+Relief Floor Tile B (Knife)|レリーフ床B（ナイフ）
+Relief Floor Tile C (Sword)|レリーフ床C（剣）
+Relief Floor Tile D (Axe)|レリーフ床D（斧）
+Relief Floor Tile E (Club)|レリーフ床E（こん棒）
+Relief Floor Tile F (Hammer)|レリーフ床F（ハンマー）
+Relief Floor Tile G (Spear)|レリーフ床G（槍）
+Relief Floor Tile H (Staff)|レリーフ床H（杖）
+Relief Floor Tile I (Claw)|レリーフ床I（爪）
+Relief Floor Tile J (Bow)|レリーフ床J（弓）
+Relief Floor Tile K (Crossbow)|レリーフ床K（石弓）
+Relief Floor Tile L (Gun)|レリーフ床L（銃）
+Relief Floor Tile M (Shield)|レリーフ床M（盾）
+Relief Floor Tile N (Helmet)|レリーフ床N（兜）
+Relief Floor Tile O (Armor)|レリーフ床O（鎧）
+Relief Floor Tile P (Crack)|レリーフ床P（ひび割れ）

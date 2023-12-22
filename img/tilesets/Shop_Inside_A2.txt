@@ -1,0 +1,32 @@
+Floor A (Wood Floor Stripe)|床A（木目縦床）
+Floor B (Wood Floor Border)|床B（木目横床）
+Floor C (Gray Stone Floor Tile)|床C（グレー石タイル床）
+Floor D (Orange Stone Floor Tile)|床D（オレンジ石タイル床）
+Hole A (Wood Round Hole)|穴A（木丸穴）
+Raised Wood (Brown)|木製段（茶色）
+Ground Cracks|床のひび割れ
+Table A (Wood)|テーブルA（木製）
+Floor E (Gray Hexagon Stone Floor Tile)|床E（グレー亀甲石タイル床）
+Floor F (Orange Hexagon Stone Floor Tile)|床F（オレンジ亀甲石タイル床）
+Floor G (Orange Rounded Corner Stone Floor Tile)|床G（オレンジ角丸石タイル床）
+Floor H (Blue Rounded Corner Stone Floor Tile)|床H（青角丸石タイル床）
+Hole B (Wood Square Hole)|穴B（木正方形穴）
+Raised Stone A (Gray)|石段A（グレー）
+Soil on Ground|床の汚れ
+Table B (Brick)|テーブルB（れんが）
+Floor I (Orange Diamond Stone Floor Tile)|床I（オレンジひし形石タイル床）
+Floor J (Blue Diamond Stone Floor Tile)|床J（青ひし形石タイル床）
+Floor K (Brick)|床K（れんが床）
+Floor L (Green Carpet)|床L（緑じゅうたん）
+Hole C (Stone Round Hole)|穴C（石丸穴）
+Raised Stone B (Gray)|石段B（グレー）
+Moss on Ground|床の苔
+Table C (Dark Blue)|テーブルC（暗青色）
+Floor M (Blue)|床M（青色）
+Floor N (Brown)|床N（茶色）
+Floor O (Red Carpet)|床O（赤じゅうたん）
+Floor P (Blue Carpet)|床P（青じゅうたん）
+Hole D (Stone Square Hole)|穴D（石正方形穴）
+Raised Stone C (Orange)|石段C（オレンジ）
+Raised Stone D (Blue)|石段D（青）
+Table D (White)|テーブルD（白）

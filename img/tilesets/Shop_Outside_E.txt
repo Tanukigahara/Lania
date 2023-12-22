@@ -1,0 +1,232 @@
+﻿Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Weapon Cart|武器屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Armor Cart|防具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Item Cart|道具屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Casino Cart|カジノ屋台
+Signboard (Sword)|看板（剣）
+Signboard (Shield)|看板（盾）
+Signboard (Portion)|看板（薬）
+Signboard (Bed)|看板（ベッド）
+Signboard (Accessory)|看板（アクセサリー）
+Signboard (Magic)|看板（魔法）
+Signboard (Pub)|看板（酒場）
+Signboard (Gamble)|看板（賭け事）
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart A|飲食屋台A
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart B|飲食屋台B
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Food Cart C|飲食屋台C
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Parasol|パラソル
+Chair|椅子
+Chair|椅子
+Chair|椅子
+Chair|椅子
+Chair|椅子
+Chair|椅子
+Chair|椅子
+Chair|椅子
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル
+Bench Table|ベンチテーブル

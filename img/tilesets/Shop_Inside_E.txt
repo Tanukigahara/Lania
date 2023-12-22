@@ -1,0 +1,256 @@
+﻿Plate A (Round)|皿A（円形）
+Plate B (Round)|皿B（円形）
+Plate C (Round)|皿C（円形）
+Plate D (Round)|皿D（円形）
+Plate A (Square)|皿A（四角形）
+Plate B (Square)|皿B（四角形）
+Tray A (Wood Round)|トレーA（木製円形四角形）
+Tray B (Wood Square)|トレーB（木製四角形）
+Dish A|料理A
+Dish B|料理B
+Dish C|料理C
+Dish D|料理D
+Dish E|料理E
+Dish F|料理F
+Dish G|料理G
+Dish H|料理H
+Pizza A |ピザA
+Pizza B |ピザB
+Pizza C |ピザC
+Pizza D |ピザD
+Pizza E |ピザE
+Pizza F |ピザF
+Squid Dish|イカ料理
+Dish I|料理I
+Dish J|料理J
+Dish K|料理K
+Dish L|料理L
+Dish M|料理M
+Dish N|料理N
+Dish O|料理O
+Dish P|料理P
+Dish Q|料理Q
+Dish R|料理R
+Dish S|料理S
+Dish T|料理T
+Dish U|料理U
+Dish V|料理V
+Dish W|料理W
+Dish X|料理X
+Dish Y|料理Y
+Bamboo steamer A|せいろA
+Bamboo steamer B|せいろB
+Bamboo steamer C|せいろC
+Bamboo steamer D|せいろD
+Bamboo steamer E|せいろE
+Bamboo steamer F|せいろF
+Bamboo steamer G|せいろG
+Bamboo steamer H|せいろH
+Chinese Dish A|中華料理A
+Chinese Dish B|中華料理B
+Chinese Dish C|中華料理C
+Chinese Dish D|中華料理D
+Chinese Dish E|中華料理E
+Chinese Dish F|中華料理F
+Chinese Dish G|中華料理G
+Chinese Dish H|中華料理H
+Sandwich A|サンドイッチA
+Sandwich B|サンドイッチB
+Sandwich C|サンドイッチC
+Sandwich D|サンドイッチD
+Sandwich E|サンドイッチE
+Sandwich F|サンドイッチF
+Sandwich G|サンドイッチG
+Sandwich H|サンドイッチH
+Hot Dog A|ホットドッグA
+Hot Dog B|ホットドッグB
+Hot Dog C|ホットドッグC
+Hot Dog D|ホットドッグD
+Hot Dog E|ホットドッグE
+Hot Dog F|ホットドッグF
+Hot Dog G|ホットドッグG
+Hamburger (Tower)|ハンバーガー（タワー）
+Hamburger A|ハンバーガーA
+Hamburger B|ハンバーガーB
+Hamburger C|ハンバーガーC
+Hamburger D|ハンバーガーD
+Hamburger E|ハンバーガーE
+Hamburger F|ハンバーガーF
+Hamburger G|ハンバーガーG
+Hamburger (Tower)|ハンバーガー（タワー）
+Pancake A|パンケーキA
+Pancake B|パンケーキB
+Pancake C|パンケーキC
+Pancake D|パンケーキD
+Pancake E|パンケーキE
+Pancake F|パンケーキF
+Pancake G|パンケーキG
+Pancake H|パンケーキH
+Sweets Plate A|スイーツプレートA
+Sweets Plate B|スイーツプレートB
+Sweets Plate C|スイーツプレートC
+Sweets Plate D|スイーツプレートD
+Sweets Plate E|スイーツプレートE
+Sweets Plate F|スイーツプレートF
+Sweets Plate G|スイーツプレートG
+Sweets Plate H|スイーツプレートH
+Parfait A|パフェA
+Parfait B|パフェB
+Parfait C|パフェC
+Parfait D|パフェD
+Parfait E|パフェE
+Parfait F|パフェF
+Parfait G|パフェG
+Parfait H|パフェH
+Parfait A|パフェA
+Parfait B|パフェB
+Parfait C|パフェC
+Parfait D|パフェD
+Parfait E|パフェE
+Parfait F|パフェF
+Parfait G|パフェG
+Parfait H|パフェH
+Cake (Tower) A|ケーキ（タワー）A
+Cake (Tower) B|ケーキ（タワー）B
+Cake (Tower) C|ケーキ（タワー）C
+Cake (Tower) D|ケーキ（タワー）D
+Cake (Tower) E|ケーキ（タワー）E
+Cake (Tower) F|ケーキ（タワー）F
+Cake (Tower) G|ケーキ（タワー）G
+Cake (Tower) H|ケーキ（タワー）H
+Cake (Tower) A|ケーキ（タワー）A
+Cake (Tower) B|ケーキ（タワー）B
+Cake (Tower) C|ケーキ（タワー）C
+Cake (Tower) D|ケーキ（タワー）D
+Cake (Tower) E|ケーキ（タワー）E
+Cake (Tower) F|ケーキ（タワー）F
+Cake (Tower) G|ケーキ（タワー）G
+Cake (Tower) H|ケーキ（タワー）H
+Menu Board A|メニューボードA
+Menu Board B|メニューボードB
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Menu Board A|メニューボードA
+Menu Board B|メニューボードB
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Large Menu Board|大メニューボード
+Drink Server A|ドリンクサーバーA
+Drink Server B|ドリンクサーバーB
+Drink Server C|ドリンクサーバーC
+Drink Server D|ドリンクサーバーD
+Drink Server E|ドリンクサーバーE
+Drink Server F|ドリンクサーバーF
+Pitcher|水差し
+Barrel|樽
+Drink Server A|ドリンクサーバーA
+Drink Server B|ドリンクサーバーB
+Drink Server C|ドリンクサーバーC
+Drink Server D|ドリンクサーバーD
+Drink Server E|ドリンクサーバーE
+Drink Server F|ドリンクサーバーF
+Pitcher|水差し
+Barrel|樽
+Drink (Glass) A|飲み物（グラス）A
+Drink (Glass) B|飲み物（グラス）B
+Drink (Glass) C|飲み物（グラス）C
+Drink (Glass) D|飲み物（グラス）D
+Drink (Glass) E|飲み物（グラス）E
+Drink (Glass) F|飲み物（グラス）F
+Drink (Glass) G|飲み物（グラス）G
+Drink (Glass) H|飲み物（グラス）H
+Drink (Glass) I|飲み物（グラス）I
+Drink (Glass) J|飲み物（グラス）J
+Drink (Glass) K|飲み物（グラス）K
+Drink (Glass) L|飲み物（グラス）L
+Drink (Glass) M|飲み物（グラス）M
+Drink (Cup) A|飲み物（カップ）A
+Drink (Glass) N|飲み物（グラス）H
+Drink (Glass) H|飲み物（グラス）N
+Drink (Cup) B|飲み物（カップ）B
+Drink (Glass) I|飲み物（グラス）I
+Drink (Green Tea) A|飲み物（緑茶）A
+Drink (Cup) C|飲み物（カップ）C
+Drink (Green Tea) B|飲み物（緑茶）B
+Drink (Cup) D|飲み物（カップ）D
+Drink (Glass) J|飲み物（グラス）J
+Drink (Cup) E|飲み物（カップ）E
+Drink (Glass) K|飲み物（グラス）K
+Drink (Glass) L|飲み物（グラス）L
+Drink (Cup) F|飲み物（カップ）F
+Drink (Cup) G|飲み物（カップ）G
+Drink (Glass) M|飲み物（グラス）M
+Drink (Cup) H|飲み物（カップ）H
+Drink (Cup) I|飲み物（カップ）I
+Drink (Cup) J|飲み物（カップ）J
+Drink (Glass) M|飲み物（グラス）M
+Drink (Glass) N|飲み物（グラス）N
+Drink (Glass) O|飲み物（グラス）O
+Drink (Glass) P|飲み物（グラス）P
+Drink (Glass) Q|飲み物（グラス）Q
+Drink (Glass) R|飲み物（グラス）R
+Drink (Beer) |飲み物（ビール）
+Drink (Glass) S|飲み物（グラス）S
+Drink (Coconut) |飲み物（ココナッツ）
+Drink (Glass) T|飲み物（グラス）T
+Drink (Glass) U|飲み物（グラス）U
+Drink (Glass) V|飲み物（グラス）V
+Drink (Glass) W|飲み物（グラス）W
+Drink (Glass) X|飲み物（グラス）X
+Drink (Glass) Y|飲み物（グラス）Y
+Drink (Glass) Z|飲み物（グラス）Z
+Drink (Sake Tokkuri) |飲み物（日本酒　徳利）
+Sushi A|お寿司A
+Japanese Dish A|日本料理A
+Ramen A|ラーメンA
+Ramen B|ラーメンB
+Ramen C|ラーメンC
+Soba A|ソバA
+Lunch Box A|ランチボックスA
+Drink (Sake Masu) |飲み物（日本酒　升）
+Sushi B|お寿司B
+Japanese Dish B|日本料理B
+Ramen D|ラーメンD
+Ramen E|ラーメンE
+Ramen F|ラーメンF
+Soba B|ソバB
+Lunch Box B|ランチボックスB
+Pan|フライパン
+Paella Pan|パエリア鍋
+Kitchen Knife|包丁
+Rolling Pin|めん棒
+Pots　Place|鍋置き場
+Pots　Place|鍋置き場
+Pots　Place|鍋置き場
+Pots　Place|鍋置き場
+Pan|フライパン
+Stewpot|深鍋
+Tenderizer|肉たたき
+Cooking Tools|調理器具
+Cooking Tools Place|調理器具置き場
+Cooking Tools Place|調理器具置き場
+Cooking Tools Place|調理器具置き場
+Cooking Tools Place|調理器具置き場
+Cooking Stove|コンロ
+Cooking Stove|コンロ
+Kitchen Counter|調理台
+Kitchen Counter|調理台
+Kitchen Sink|台所流し台
+Kitchen Sink|台所流し台
+Stone Oven|石窯
+Stone Oven|石窯
+Cooking Stove|コンロ
+Cooking Stove|コンロ
+Kitchen Counter|調理台
+Kitchen Counter|調理台
+Kitchen Sink|台所流し台
+Kitchen Sink|台所流し台
+Stone Oven|石窯
+Stone Oven|石窯

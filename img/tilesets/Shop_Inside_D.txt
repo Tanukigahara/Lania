@@ -1,0 +1,256 @@
+﻿Clothing A|服A
+Clothing B|服B
+Clothing C|服C
+Clothing D|服D
+Clothing E|服E
+Clothing F|服F
+Clothing G|服G
+Clothing H|服H
+Clothing A|服A
+Clothing B|服B
+Clothing C|服C
+Clothing D|服D
+Clothing E|服E
+Clothing F|服F
+Clothing G|服G
+Clothing H|服H
+Clothing I|服I
+Bikini A|ビキニA
+Clothing J|服J
+Clothing K|服K
+Maid clothes|メイド服
+Cat Costume|猫着ぐるみ
+Bikini B|ビキニB
+Clothing L|服L
+Clothing I|服I
+Bikini A|ビキニA
+Clothing J|服J
+Clothing K|服K
+Maid clothes|メイド服
+Cat Costume|猫着ぐるみ
+Bikini B|ビキニB
+Clothing L|服L
+Armor A|鎧A
+Armor B|鎧B
+Armor C|鎧C
+Armor D|鎧D
+Armor E|鎧E
+Armor F|鎧F
+Armor G|鎧G
+Armor H|鎧H
+Armor A|鎧A
+Armor B|鎧B
+Armor C|鎧C
+Armor D|鎧D
+Armor E|鎧E
+Armor F|鎧F
+Armor G|鎧G
+Armor H|鎧H
+Armor I|鎧I
+Armor J|鎧J
+Armor K|鎧K
+Armor L|鎧L
+Armor M|鎧M
+Armor N|鎧N
+Armor O|鎧O
+Armor P|鎧P
+Armor I|鎧I
+Armor J|鎧J
+Armor K|鎧K
+Armor L|鎧L
+Armor M|鎧M
+Armor N|鎧N
+Armor O|鎧O
+Armor P|鎧P
+Robe A|ローブA
+Robe B|ローブB
+Robe C|ローブC
+Robe D|ローブD
+Robe E|ローブE
+Robe F|ローブF
+Robe G|ローブG
+Robe H|ローブH
+Robe A|ローブA
+Robe B|ローブB
+Robe C|ローブC
+Robe D|ローブD
+Robe E|ローブE
+Robe F|ローブF
+Robe G|ローブG
+Robe H|ローブH
+Robe I|ローブI
+Robe J|ローブJ
+Robe K|ローブK
+Robe L|ローブL
+Robe M|ローブM
+Robe N|ローブN
+Robe O|ローブO
+Robe P|ローブP
+Robe I|ローブI
+Robe J|ローブJ
+Robe K|ローブK
+Robe L|ローブL
+Robe M|ローブM
+Robe N|ローブN
+Robe O|ローブO
+Robe P|ローブP
+Helmet A|兜A
+Helmet B|兜B
+Helmet C|兜C
+Helmet D|兜D
+Helmet E|兜E
+Helmet F|兜F
+Helmet G|兜G
+Helmet H|兜H
+Helmet I|兜I
+Helmet J|兜J
+Helmet K|兜K
+Helmet L|兜L
+Helmet M|兜M
+Helmet N|兜N
+Helmet O|兜O
+Helmet P|兜P
+Hat A|帽子A
+Hat B|帽子B
+Hat C|帽子C
+Hat D|帽子D
+Hat E|帽子E
+Hat F|帽子F
+Hat G|帽子G
+Hat H|帽子H
+Hat I|帽子I
+Hat J|帽子J
+Hat K|帽子K
+Hat L|帽子L
+Hat M|帽子M
+Hat N|帽子N
+Hat O|帽子O
+Hat P|帽子P
+Shield A|盾A
+Shield B|盾B
+Shield C|盾C
+Shield D|盾D
+Shield E|盾E
+Shield F|盾F
+Shield G|盾G
+Shield H|盾H
+Shield I|盾I
+Shield J|盾J
+Shield K|盾K
+Shield L|盾L
+Shield M|盾M
+Shield N|盾N
+Shield O|盾O
+Shield P|盾P
+Large Shield A|大盾A
+Large Shield B|大盾B
+Large Shield C|大盾C
+Large Shield D|大盾D
+Large Shield E|大盾E
+Large Shield F|大盾F
+Large Shield G|大盾G
+Large Shield H|大盾H
+Large Shield A|大盾A
+Large Shield B|大盾B
+Large Shield C|大盾C
+Large Shield D|大盾D
+Large Shield E|大盾E
+Large Shield F|大盾F
+Large Shield G|大盾G
+Large Shield H|大盾H
+Large Shield I|大盾I
+Large Shield J|大盾J
+Large Shield K|大盾K
+Large Shield L|大盾L
+Large Shield M|大盾M
+Large Shield N|大盾N
+Large Shield O|大盾O
+Large Shield P|大盾P
+Large Shield I|大盾I
+Large Shield J|大盾J
+Large Shield K|大盾K
+Large Shield L|大盾L
+Large Shield M|大盾M
+Large Shield N|大盾N
+Large Shield O|大盾O
+Large Shield P|大盾P
+Glove A|手袋A
+Glove B|手袋B
+Glove C|手袋C
+Glove D|手袋D
+Glove E|手袋E
+Glove F|手袋F
+Glove G|手袋G
+Glove H|手袋H
+Gauntlet A|小手A
+Gauntlet B|小手B
+Gauntlet C|小手C
+Gauntlet D|小手D
+Gauntlet E|小手E
+Gauntlet F|小手F
+Gauntlet G|小手G
+Gauntlet H|小手H
+Shoes A|靴A
+Boots A|ブーツA
+Boots B|ブーツB
+Boots C|ブーツC
+Boots D|ブーツD
+Shoes B|靴B
+Shoes C|靴C
+Boots E|ブーツE
+Boots F|ブーツF
+Shoes D|靴D
+Shoes E|靴E
+High Heels|ハイヒール
+Animal Shoes|動物靴
+Tabi A|足袋A
+Tabi B|足袋B
+Geta|下駄
+Mantle A|マントA
+Mantle B|マントB
+Mantle C|マントC
+Mantle D|マントD
+Mantle E|マントE
+Mantle F|マントF
+Mantle G|マントG
+Mantle H|マントH
+Mantle A|マントA
+Mantle B|マントB
+Mantle C|マントC
+Mantle D|マントD
+Mantle E|マントE
+Mantle F|マントF
+Mantle G|マントG
+Mantle H|マントH
+Mantle I|マントI
+Mantle J|マントJ
+Mantle K|マントK
+Mantle L|マントL
+Mantle M|マントM
+Mantle N|マントN
+Mantle O|マントO
+Mantle P|マントP
+Mantle I|マントI
+Mantle J|マントJ
+Mantle K|マントK
+Mantle L|マントL
+Mantle M|マントM
+Mantle N|マントN
+Mantle O|マントO
+Mantle P|マントP
+Jewel Box A|宝石箱A
+Jewel Box B|宝石箱B
+Necklace (Stand)|ネックレス（スタンド）
+3 Ribbon Bands|3つのリボンバンド
+4 Ribbons|4つのリボン
+Badge|勲章
+Compass|方位磁針
+Necklace (Crescent)|ネックレス（三日月）
+Jewel Box A|宝石箱A
+Jewel Box B|宝石箱B
+Necklace (Drop)|ネックレス（雫）
+Broach|ブローチ
+Devil Tail|悪魔のしっぽ
+Necklace (Bell)|ネックレス（ベル）
+3 Amulets A|3つのお守りA
+3 Amulets B|3つのお守りB

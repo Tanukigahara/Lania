@@ -1,0 +1,16 @@
+Water A|水場A
+Deep Water|深い水場
+Overgrown Grass|生い茂る草
+Withered Grass|枯れた草
+Water B (Gray Surround Stonewall)|水場B（灰色囲み石壁）
+Water Block A (Gray)|ブロックA（灰色）
+Water C (Orange Surround Stonewall)|水場C（橙色囲み石壁）
+Water Block B (Orange)|ブロックB（橙色）
+Water D (Shallow Woodwall)|水場D（浅い木壁）
+Wave Water(Shallow)|波の水（浅い）
+Water E (Deep Woodwall)|水場E（深い木壁）
+Wave Water(Deep)|波の水（深い）
+Water F (Brown Surround Stonewall)|水場F（茶色囲み石壁）
+Water Block C (Brown)|ブロックC（茶色）
+Water G (Ecru Surround Stonewall)|水場G（きなり色囲み石壁）
+Water Block D (Ecru)|ブロックD（きなり色）

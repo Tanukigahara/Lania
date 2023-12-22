@@ -1,0 +1,48 @@
+﻿Wall A (Pale Brick)|壁A（淡色レンガ）
+Wall B (Brick)|壁B（レンガ）
+Wall C (Light Gray Brick)|壁C（明灰色レンガ）
+Wall D (Brown Brick)|壁D（茶色レンガ）
+Wall E (White Brick)|壁E（白色レンガ）
+Wall F (Purple Brick)|壁F（紫色レンガ）
+Wall G (Gray Brick)|壁G（灰色レンガ）
+Wall H (Black Brick)|壁H（黒色レンガ）
+Wall A (Pale Brick)|壁A（淡色レンガ）
+Wall B (Brick)|壁B（レンガ）
+Wall C (Light Gray Brick)|壁C（明灰色レンガ）
+Wall D (Brown Brick)|壁D（茶色レンガ）
+Wall E (White Brick)|壁E（白色レンガ）
+Wall F (Purple Brick)|壁F（紫色レンガ）
+Wall G (Gray Brick)|壁G（灰色レンガ）
+Wall H (Black Brick)|壁H（黒色レンガ）
+Wall I (Light Gray Tile)|壁I（明灰色タイル）
+Wall J (Pink Tile)|壁J（ピンクタイル）
+Wall K (Beige Tile)|壁K（ベージュタイル）
+Wall L (Blue Tile)|壁L（青色タイル）
+Wall M (Light Gray Stone)|壁M（明灰色石）
+Wall N (Pink Stone)|壁N（ピンク石）
+Wall O (Beige Stone)|壁O（ベージュ石）
+Wall P (Blue Stone)|壁P（青色石）
+Wall I (Light Gray Tile)|壁I（明灰色タイル）
+Wall J (Pink Tile)|壁J（ピンクタイル）
+Wall K (Beige Tile)|壁K（ベージュタイル）
+Wall L (Blue Tile)|壁L（青色タイル）
+Wall M (Light Gray Stone)|壁M（明灰色石）
+Wall N (Pink Stone)|壁N（ピンク石）
+Wall O (Beige Stone)|壁O（ベージュ石）
+Wall P (Blue Stone)|壁P（青色石）
+Ledge A (Beige Wood)|段差A（ベージュ木）
+Ledge B (Red Wood)|段差B（赤色木）
+Ledge C (Green Wood)|段差C（緑色木）
+Ledge D (Blue Wood)|段差D（青色木）
+Forest A|森A
+Forest B (Flower)|森B（花）
+Bamboo A (Green)|竹A（緑色）
+Bamboo B (Red)|竹B（赤色）
+Ledge A (Beige Wood)|段差A（ベージュ木）
+Ledge B (Red Wood)|段差B（赤色木）
+Ledge C (Green Wood)|段差C（緑色木）
+Ledge D (Blue Wood)|段差D（青色木）
+Forest A|森A
+Forest B (Flower)|森B（花）
+Bamboo A (Green)|竹A（緑色）
+Bamboo B (Red)|竹B（赤色）

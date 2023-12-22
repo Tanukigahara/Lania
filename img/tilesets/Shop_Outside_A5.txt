@@ -1,0 +1,128 @@
+﻿Darkness A|暗闇A
+Dirt A|土A
+Large Wood Bridge (H, Top)|大きな木橋（横・上）
+Large Wood Bridge (H, Center)|大きな木橋（横・中央）
+Large Steel Bridge (H, Top)|大きな鋼鉄橋（横・上）
+Large Wood Bridge (V, Left)|大きな木橋（縦・左）
+Large Wood Bridge (V, Center)|大きな木橋（縦・中央）
+Large Wood Bridge (V, Right)|大きな木橋（縦・右）
+Transparent|透明
+Dirt B|土B
+Large Wood Bridge (H, Bottom)|大きな木橋（横・下）
+Large Steel Bridge (H, Center)|大きな鋼鉄橋（横・中央）
+Large Steel Bridge (H, Bottom)|大きな鋼鉄橋（横・下）
+Large Steel Bridge (Snow, V, Left)|大きな鋼鉄橋（縦・左）
+Large Steel Bridge (Snow, V, Center)|大きな鋼鉄橋（縦・中央）
+Large Steel Bridge (Snow, V, Right)|大きな鋼鉄橋（縦・右）
+Cobblestones A (White)|石畳A（白）
+Cobblestones B (Gray)|石畳B（灰色）
+Cobblestones C (Pale Pink)|石畳C（薄桃色）
+Cobblestones D (Beige)|石畳D（ベージュ）
+Cobblestones E (Pink)|石畳E（ピンク）
+Cobblestones F (Pale Blue)|石畳F（薄青）
+Cobblestones G (Navy Blue)|石畳G（紺色）
+Cobblestones H (Black)|石畳H（黒）
+Cobblestones A (3 Color) |石畳A（3色）
+Cobblestones B (3 Color) |石畳B（3色）
+Cobblestones C (3 Color) |石畳C（3色）
+Cobblestones D (3 Color) |石畳D（3色）
+Cobblestones E (2 Color) |石畳E（2色）
+Cobblestones F (2 Color) |石畳F（2色）
+Cobblestones G (2 Color) |石畳G（2色）
+Cobblestones H (2 Color) |石畳H（2色）
+Cobblestones I (White)|石畳I（白）
+Cobblestones J (Gray)|石畳J（灰色）
+Cobblestones K (Pale Pink)|石畳K（薄桃色）
+Cobblestones L (Beige)|石畳L（ベージュ）
+Cobblestones M (Pink)|石畳M（ピンク）
+Cobblestones N (Pale Blue)|石畳N（薄青）
+Cobblestones O (Navy Blue)|石畳O（紺色）
+Cobblestones P (Black)|石畳P（黒）
+Wood Ledge (Left)|木段差（左）
+Wood Ledge (Center)|木段差（中央）
+Wood Ledge (Right)|木段差（右）
+Wood Ledge|木段差
+Steel Ledge (Left)|鋼鉄段差（左）
+Steel Ledge (Center)|鋼鉄段差（中央）
+Steel Ledge (Right)|鋼鉄段差（右）
+Steel Ledge|鋼鉄段差
+Floor A (White)|床A（白）
+Floor B (Gray)|床B（灰色）
+Floor C (Pale Pink)|床C（薄桃色）
+Floor D (Beige)|床D（ベージュ）
+Floor E (Pink)|床E（ピンク）
+Floor F (Pale Blue)|床F（薄青色）
+Floor G (Navy Blue)|床G（紺色）
+Floor H (Black)|床H（黒）
+Stripe Floor A (Light Gray)|線入り床A（明灰色）
+Stripe Floor B (Gray)|線入り床B（灰色）
+Stripe Floor C (Pale Pink)|線入り床C（薄桃色）
+Stripe Floor D (Beige)|線入り床D（ベージュ）
+Stripe Floor E (Pink)|線入り床E（ピンク）
+Stripe Floor F (Pale Blue)|線入り床F（薄青色）
+Stripe Floor G (Navy Blue)|線入り床G（紺色）
+Stripe Floor H (Black)|線入り床H（黒）
+Quadrisection Floor A (White)|4分割床A（白）
+Quadrisection Floor B (Gray)|4分割床B（灰色）
+Quadrisection Floor C (Pale Pink)|4分割床C（薄桃色）
+Quadrisection Floor D (Beige)|4分割床D（ベージュ）
+Quadrisection Floor E (Pink)|4分割床E（ピンク）
+Quadrisection Floor F (Pale Blue)|4分割床F（薄青色）
+Quadrisection Floor G (Navy Blue)|4分割床G（紺色）
+Quadrisection Floor H (Black)|4分割床H（黒）
+Stripe Floor I (Light Gray)|線入り床I（明灰色）
+Stripe Floor J (Gray)|線入り床J（灰色）
+Stripe Floor K (Pale Pink)|線入り床K（薄桃色）
+Stripe Floor L (Beige)|線入り床L（ベージュ）
+Stripe Floor M (Pink)|線入り床M（ピンク）
+Stripe Floor N (Pale Blue)|線入り床N（薄青色）
+Stripe Floor O (Navy Blue)|線入り床O（紺色）
+Stripe Floor P (Black)|線入り床P（黒）
+Wood Large Floor A (Top, Left)|木大床A（上部・左）
+Wood Large Floor A (Top, Center)|木大床A（上部・中央）
+Wood Large Floor A (Top, Right)|木大床A（上部・右）
+Wood Large Floor B (Top, Left)|木大床B（上部・左）
+Wood Large Floor B (Top, Center)|木大床B（上部・中央）
+Wood Large Floor B (Top, Right)|木大床B（上部・右）
+Wood Floor A (Top, Left)|木床A（上部・左）
+Wood Floor A (Top, Right)|木床A（上部・右）
+Wood Large Floor A (Middle, Left)|木大床A（中央部・左）
+Wood Large Floor A (Middle, Center)|木大床A（中央部・中央）
+Wood Large Floor A (Middle, Right)|木大床A（中央部・右）
+Wood Large Floor B (Middle, Left)|木大床B（中央部・左）
+Wood Large Floor B (Middle, Center)|木大床B（中央部・中央）
+Wood Large Floor B (Middle, Right)|木大床B（中央部・右）
+Wood Floor A (Bottom, Left)|木床A（下部・左）
+Wood Floor A (Bottom, Right)|木床A（下部・右）
+Wood Large Floor A (Bottom, Left)|木大床A（下部・左）
+Wood Large Floor A (Bottom, Center)|木大床A（下部・中央）
+Wood Large Floor A (Bottom, Right)|木大床A（下部・右）
+Wood Large Floor B (Bottom, Left)|木大床B（下部・左）
+Wood Large Floor B (Bottom, Center)|木大床B（下部・中央）
+Wood Large Floor B (Bottom, Right)|木大床B（下部・右）
+Wood Floor B (Top, Left)|木床B（上部・左）
+Wood Floor B (Top, Right)|木床A（上部・右）
+Wood Large Floor C (Top, Left)|木大床C（上部・左）
+Wood Large Floor C (Top, Center)|木大床C（上部・中央）
+Wood Large Floor C (Top, Right)|木大床C（上部・右）
+Stairs A (Left)|階段A（左）
+Stairs A (Center)|階段A（中央）
+Stairs A (Right)|階段A（右）
+Wood Floor B (Bottom, Left)|木床B（下部・左）
+Wood Floor B (Bottom, Right)|木床B（下部・右）
+Wood Large Floor C (Middle, Left)|木大床C（中央部・左）
+Wood Large Floor C (Middle, Center)|木大床C（中央部・中央）
+Wood Large Floor C (Middle, Right)|木大床C（中央部・右）
+Stairs B (Left)|階段B（左）
+Stairs B (Center)|階段B（中央）
+Stairs B (Right)|階段B（右）
+Wood Floor C (Top, Left)|木床C（上部・左）
+Wood Floor C (Top, Right)|木床C（上部・右）
+Wood Large Floor C (Bottom, Left)|木大床C（下部・左）
+Wood Large Floor C (Bottom, Center)|木大床C（下部・中央）
+Wood Large Floor C (Bottom, Right)|木大床C（下部・右）
+Stairs C (Left)|階段C（左）
+Stairs C (Center)|階段C（中央）
+Stairs C (Right)|階段C（右）
+Wood Floor C (Bottom, Left)|木床C（下部・左）
+Wood Floor C (Bottom, Right)|木床C（下部・右）

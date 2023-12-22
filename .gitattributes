@@ -1,0 +1,16 @@
+.gitattributes   text
+.gitignore       text
+.gitmodules      text
+/Game.rpgproject text merge=binary
+*.html           text diff=html
+*.[Mm]4[Aa]      binary
+*.[Oo][Gg][Gg]   binary
+*.json           text
+*.css            text
+*.ttf            binary
+*.[Pp][Nn][Gg]   binary
+*.[Tt][Xx][Tt]   text
+*.[Jj][Ss]       text
+
+*.[Ww][Ee][Bb][Mm] binary
+*.[Mm][Pp]4        binary

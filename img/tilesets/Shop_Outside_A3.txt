@@ -1,0 +1,32 @@
+﻿Roof A (White Wood)|屋根A（白色の木）
+Roof B (Red Wood)|屋根B（赤色の木）
+Roof C (Green Wood)|屋根C（緑色の木）
+Roof D (Blue Wood)|屋根D（青色の木）
+Roof E (White Tile)|屋根E（白色の瓦）
+Roof F (Red Tile)|屋根F（赤色の瓦）
+Roof G (Green Tile)|屋根G（緑色の瓦）
+Roof H (Blue Tile)|屋根H（青色の瓦）
+Outer Wall A (White Wood)|外壁A（白色の木）
+Outer Wall B (Red Wood)|外壁B（赤色の木）
+Outer Wall C (Green Wood)|外壁C（緑色の木）
+Outer Wall D (Blue Wood)|外壁D（青色の木）
+Outer Wall E (White Brick)|外壁E（白色のレンガ）
+Outer Wall F (Red Brick)|外壁F（赤色のレンガ）
+Outer Wall G (Green Brick)|外壁G（緑色のレンガ）
+Outer Wall H (Blue Brick)|外壁H（青色のレンガ）
+Roof I (Orange)|屋根I（オレンジ色）
+Roof J (Red)|屋根J（赤色）
+Roof K (Green)|屋根K（緑色）
+Roof L (Blue)|屋根L（青色）
+Roof M (Orange Stripe)|屋根M（オレンジ縞）
+Roof N (Red Stripe)|屋根N（赤縞）
+Roof O (Green Stripe)|屋根O（緑縞）
+Roof P (Blue Stripe)|屋根P（青縞）
+Outer Wall I (White Rock)|外壁I（白色石壁）
+Outer Wall J (Red Rock)|外壁J（赤色石壁）
+Outer Wall K (Green Rock)|外壁K（緑色石壁）
+Outer Wall L (Blue Rock)|外壁L（青色石壁）
+Cracked Outer Wall A (White)|ひび割れた外壁A（白色）
+Cracked Outer Wall B (Black)|ひび割れた外壁B（黒色）
+Black Iron Wall|黒い鉄壁
+Straw Outer Wall|藁の外壁

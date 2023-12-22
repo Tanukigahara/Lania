@@ -1,0 +1,48 @@
+Wall A (Beige)|壁A（ベージュ）
+Wall B (Brown)|壁B（茶色）
+Wall C (Blue)|壁C（青色）
+Wall D (Green)|壁D（緑色）
+Wall E (PaleBrick)|壁E（淡いレンガ）
+Wall F (DarkBrick)|壁F（濃いレンガ）
+Wall G (Stone)|壁G（石）
+Wall H (Brick)|壁H（レンガ）
+Wall A (Beige)|壁A（ベージュ）
+Wall B (Brown)|壁B（茶色）
+Wall C (Blue)|壁C（青色）
+Wall D (Green)|壁D（緑色）
+Wall E (PaleBrick)|壁E（淡いレンガ）
+Wall F (DarkBrick)|壁F（濃いレンガ）
+Wall G (Stone)|壁G（石）
+Wall H (Brick)|壁H（レンガ）
+Wood Wall (Beige)|木壁（ベージュ）
+Wood Wall (Brown)|木壁（茶色）
+Wood Wall (Blue)|木壁（青色）
+Wood Wall (Green)|木壁（緑色）
+2Color Wall (PaleBrick)|2色壁（淡いレンガ）
+2Color Wall (DarkBrick)|2色壁（濃いレンガ）
+2Color Wall (GrayBrick)|2色壁（灰色レンガ）
+2Color Wall (BrownBrick)|2色壁（茶色レンガ）
+Wood Wall (Beige)|木壁（ベージュ）
+Wood Wall (Brown)|木壁（茶色）
+Wood Wall (Blue)|木壁（青色）
+Wood Wall (Green)|木壁（緑色）
+2Color Wall (PaleBrick)|2色壁（淡いレンガ）
+2Color Wall (DarkBrick)|2色壁（濃いレンガ）
+2Color Wall (GrayBrick)|2色壁（灰色レンガ）
+2Color Wall (BrownBrick)|2色壁（茶色レンガ）
+2Color Wood Wall (Beige)|2色木壁（ベージュ）
+2Color Wood Wall (Brown)|2色木壁（茶色）
+2Color Wood Wall (Blue)|2色木壁（青色）
+2Color Wood Wall (Green)|2色木壁（緑色）
+Jungle A |密林A
+Jungle B |密林B
+Bamboo Wall (Green)|竹壁（緑色）
+Bamboo Wall (Red)|竹壁（赤色）
+2Color Wood Wall (Beige)|2色木壁（ベージュ）
+2Color Wood Wall (Brown)|2色木壁（茶色）
+2Color Wood Wall (Blue)|2色木壁（青色）
+2Color Wood Wall (Green)|2色木壁（緑色）
+Jungle A |密林A
+Jungle B |密林B
+Bamboo Wall (Green)|竹壁（緑色）
+Bamboo Wall (Red)|竹壁（赤色）

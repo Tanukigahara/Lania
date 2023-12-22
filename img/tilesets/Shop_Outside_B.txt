@@ -1,0 +1,257 @@
+﻿Transparent A|透明A
+Flower Bed|花壇
+Flower Bed|花壇
+Flower Bed|花壇
+Flower Bed|花壇
+Grass|草
+Flower|花
+Flower|花
+Plamt (Flower Bed)|植物（花壇）
+Plamt (Flower Bed)|植物（花壇）
+Plamt (Flower Bed)|植物（花壇）
+Stone|石
+Stone|石
+Flower|花
+Flower|花
+Flower|花
+Big Tree A|大木A
+Big Tree A|大木A
+Big Tree A|大木A
+Big Tree B|大木B
+Big Tree B|大木B
+Plamt|植物
+Tree A|木A
+Tree A|木A
+Big Tree A|大木A
+Big Tree A|大木A
+Big Tree A|大木A
+Big Tree B|大木B
+Big Tree B|大木B
+Plamt|植物
+Tree A|木A
+Tree A|木A
+Big Tree A|大木A
+Big Tree A|大木A
+Big Tree A|大木A
+Big Tree B|大木B
+Big Tree B|大木B
+Bush|植え込み
+Bush|植え込み
+Bush|植え込み
+Tree|木
+Tree|木
+Tree|木
+Stump (axe)|切り株（斧）
+Board|板
+Hedge|生垣
+Hedge|生垣
+Hedge|生垣
+Tree|木
+Tree|木
+Stump|切り株
+Stump (axe)|切り株（斧）
+Firewood|薪
+Hedge|生垣
+Hedge|生垣
+Hedge|生垣
+Hedge|生垣
+Hedge|生垣
+Hedge|生垣
+Hedge|生垣
+Flowerpot|植木鉢
+Flower (Flowerpot)|花（植木鉢）
+Flower (Flowerpot)|花（植木鉢）
+Plamt|植物
+Hedge|生垣
+Stepping Stones|踏み石
+Stepping Stones|踏み石
+Stepping Board|踏み板
+Stepping Board|踏み板
+Hedge|生垣
+Plamt|植物
+Plamt|植物
+Crate|木箱
+Crate|木箱
+Crate|木箱
+Crops (Crate)|農作物（木箱）
+Cloth|布
+Counter|カウンター
+Counter|カウンター
+Counter|カウンター
+Crate|木箱
+Crate|木箱
+Crate|木箱
+Flower (Crate)|花（木箱）
+Goods|商品
+Counter|カウンター
+Counter|カウンター
+Counter|カウンター
+Bench|ベンチ
+Bench|ベンチ
+Crops (Box)|農作物（箱）
+Crops (Box)|農作物（箱）
+Bulletin Board|掲示板
+Bulletin Board|掲示板
+Pillar|柱
+Pillar|柱
+Bench|ベンチ
+Bench|ベンチ
+Bench|ベンチ
+Bench|ベンチ
+Bulletin Board|掲示板
+Bulletin Board|掲示板
+Pillar|柱
+Pillar|柱
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Bush|植え込み
+Bush|植え込み
+Bush|植え込み
+Clock Tower|時計塔
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Crops (Farm Field)|農作物（畑）
+Crops (Farm Field)|農作物（畑）
+Crops (Farm Field)|農作物（畑）
+Clock Tower|時計塔
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Stairs (Wood)|階段（木製）
+Farm Field|畑
+Farm Field|畑
+Farm Field|畑
+Clock Tower|時計塔
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Grave|墓
+Grave|墓
+Well|井戸
+Well|井戸
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Grave|墓
+Flower (Grave)|花（墓）
+Well|井戸
+Street Light|街灯
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Street Light|街灯
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Drinking Fountain|水飲み場
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fence (Log)|柵（丸太）
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Drinking Fountain|水飲み場
+Manhole|マンホール
+Grating|グレーチング
+Grating|グレーチング
+Jute Bag|麻袋
+Jute Bag|麻袋
+Barbed Wire|有刺鉄線
+Barbed Wire|有刺鉄線
+Barbed Wire|有刺鉄線
+Hole (anhole)|穴（マンホール）
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Barbed Wire|有刺鉄線
+Barbed Wire|有刺鉄線
+Barbed Wire|有刺鉄線
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Barrel|樽
+Barrel|樽
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Barrel|樽
+Barrel|樽
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Stairs|階段
+Sign|立て札
+Sign|立て札
+Stairs|階段
+Stairs|階段
+Wall|壁
+Wall|壁
+Stairs|階段
+Stairs|階段
+Sign|立て札
+Sign|立て札
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Dirt|土
+Grass|芝生
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Grass|芝生
+Grass|芝生
+Grass|芝生
+Grass|芝生
