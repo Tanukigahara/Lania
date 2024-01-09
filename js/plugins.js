@@ -61,5 +61,6 @@ var $plugins =
 {"name":"NRP_BattleParallelCommon","status":true,"description":"v1.022 コモンイベントの並列処理を戦闘中も有効にします。","parameters":{"commonEventsWhiteList":"[\"505\",\"507\"]","invalidOnMap":"false","validAllCommon":"false","alwaysMonitorChange":"false"}},
 {"name":"stepsChange","status":true,"description":"歩数を調整するプラグインです","parameters":{}},
 {"name":"AutomaticState","status":false,"description":"ステート自動付与プラグイン","parameters":{}},
-{"name":"DynamicDatabase","status":true,"description":"動的データベース構築プラグイン","parameters":{}}
+{"name":"DynamicDatabase","status":true,"description":"動的データベース構築プラグイン","parameters":{}},
+{"name":"FeLevelUpMV","status":true,"description":"ファイアーエムブレム風レベルアッププラグイン(MV版)","parameters":{"DisplayLevelUp":"-1","ShowFace":"-1","TemplateDisplayLevelUp":"%1: %2 -> %3 (+%4)","Alart":"true"}}
 ];
