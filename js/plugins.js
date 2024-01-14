@@ -62,5 +62,6 @@ var $plugins =
 {"name":"stepsChange","status":true,"description":"歩数を調整するプラグインです","parameters":{}},
 {"name":"AutomaticState","status":false,"description":"ステート自動付与プラグイン","parameters":{}},
 {"name":"DynamicDatabase","status":true,"description":"動的データベース構築プラグイン","parameters":{}},
-{"name":"FeLevelUpMV","status":true,"description":"ファイアーエムブレム風レベルアッププラグイン(MV版)","parameters":{"DisplayLevelUp":"-1","ShowFace":"-1","TemplateDisplayLevelUp":"%1: %2 -> %3 (+%4)","Alart":"true"}}
+{"name":"FeLevelUpMV","status":true,"description":"ファイアーエムブレム風レベルアッププラグイン(MV版)","parameters":{"DisplayLevelUp":"-1","ShowFace":"-1","TemplateDisplayLevelUp":"%1: %2 -> %3 (+%4)","Alart":"true"}},
+{"name":"StateAfterDeath (1)","status":true,"description":"戦闘不能後継続ステートプラグイン","parameters":{"states":"[\"100\"]"}}
 ];
