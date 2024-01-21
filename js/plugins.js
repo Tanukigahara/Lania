@@ -63,5 +63,7 @@ var $plugins =
 {"name":"AutomaticState","status":false,"description":"ステート自動付与プラグイン","parameters":{}},
 {"name":"DynamicDatabase","status":true,"description":"動的データベース構築プラグイン","parameters":{}},
 {"name":"FeLevelUpMV","status":true,"description":"ファイアーエムブレム風レベルアッププラグイン(MV版)","parameters":{"DisplayLevelUp":"-1","ShowFace":"-1","TemplateDisplayLevelUp":"%1: %2 -> %3 (+%4)","Alart":"true"}},
-{"name":"StateAfterDeath (1)","status":true,"description":"戦闘不能後継続ステートプラグイン","parameters":{"states":"[\"100\"]"}}
+{"name":"StateAfterDeath (1)","status":true,"description":"戦闘不能後継続ステートプラグイン","parameters":{"states":"[\"100\"]"}},
+{"name":"MOG_ATB","status":true,"description":"(v0.3 *) Sistema de batalha em tempo real.","parameters":{"ATB Mode":"0","ATB Max Value":"2000","Turn Duration":"1000","States Duration":"180","Escape Duration":"180","Skip Emerge Message":"true","Full SE":"audio/se/Book1","Change Actor Left":"pagedown","Change Actor Right":"pageup","Escape Button":"cancel","Escape Layout X":"600","Escape Layout Y":"64","Escape Gauge X":"6","Escape Gauge Y":"16"}},
+{"name":"MOG_ATB_Gauge","status":true,"description":"(v1.0) Apresenta a Hud de ATB para MOG_ATB.","parameters":{"Hud Angle":"0","Hud X-Axis":"740","Hud Y-Axis":"45","Enemy X-Axis Offset":"16","Actor X-Axis Offset":"-16","Active X-Axis":"-3","Active Y-Axis":"30","Gauge Size":"160","Skill Visible":"true","Skill Zoom":"0.6","Skill X-Axis":"0","Skill Y-Axis":"0"}}
 ];
