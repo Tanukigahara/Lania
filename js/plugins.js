@@ -63,5 +63,6 @@ var $plugins =
 {"name":"AutomaticState","status":false,"description":"ステート自動付与プラグイン","parameters":{}},
 {"name":"DynamicDatabase","status":true,"description":"動的データベース構築プラグイン","parameters":{}},
 {"name":"FeLevelUpMV","status":true,"description":"ファイアーエムブレム風レベルアッププラグイン(MV版)","parameters":{"DisplayLevelUp":"-1","ShowFace":"-1","TemplateDisplayLevelUp":"%1: %2 -> %3 (+%4)","Alart":"true"}},
-{"name":"StateAfterDeath (1)","status":true,"description":"戦闘不能後継続ステートプラグイン","parameters":{"states":"[\"100\",\"101\"]"}}
+{"name":"StateAfterDeath (1)","status":true,"description":"戦闘不能後継続ステートプラグイン","parameters":{"states":"[\"100\",\"101\"]"}},
+{"name":"SkipPartyCommand","status":true,"description":"戦闘時のパーティーコマンドをスキップします。","parameters":{"スキップ用のスイッチ番号":"503","逃げるコマンド表示用のスイッチ番号":"0"}}
 ];
