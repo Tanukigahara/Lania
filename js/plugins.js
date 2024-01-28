@@ -64,5 +64,6 @@ var $plugins =
 {"name":"DynamicDatabase","status":true,"description":"動的データベース構築プラグイン","parameters":{}},
 {"name":"FeLevelUpMV","status":true,"description":"ファイアーエムブレム風レベルアッププラグイン(MV版)","parameters":{"DisplayLevelUp":"-1","ShowFace":"-1","TemplateDisplayLevelUp":"%1: %2 -> %3 (+%4)","Alart":"true"}},
 {"name":"StateAfterDeath (1)","status":true,"description":"戦闘不能後継続ステートプラグイン","parameters":{"states":"[\"100\",\"101\"]"}},
-{"name":"SkipPartyCommand","status":true,"description":"戦闘時のパーティーコマンドをスキップします。","parameters":{"スキップ用のスイッチ番号":"503","逃げるコマンド表示用のスイッチ番号":"0"}}
+{"name":"SkipPartyCommand","status":true,"description":"戦闘時のパーティーコマンドをスキップします。","parameters":{"スキップ用のスイッチ番号":"503","逃げるコマンド表示用のスイッチ番号":"0"}},
+{"name":"FTKR_ExBattleCommand","status":true,"description":"v2.2.2 アクターのバトルコマンドの表示を変更する","parameters":{"--パーティーコマンド--":"","Party Command List":"fight,escape","Party Commands":"{\"fight\":\"{\\\"enabled\\\":\\\"\\\",\\\"ext\\\":\\\"\\\",\\\"skillId\\\":\\\"\\\"}\",\"escape\":\"{\\\"enabled\\\":\\\"BattleManager.canEscape()\\\",\\\"ext\\\":\\\"\\\",\\\"skillId\\\":\\\"\\\"}\",\"customs\":\"[]\"}","--コマンドアイコン--":"","Show Command Icon":"false","--コマンド説明文--":"","Show Command Description":"false","--空欄コマンド--":"","Enable Select Blank":"false","atcode":"","TRAIT_ACTOR_COMMAND":"200"}}
 ];
