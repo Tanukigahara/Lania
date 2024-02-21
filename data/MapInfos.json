@@ -219,6 +219,6 @@ null,
 {"id":217,"expanded":true,"name":"ガルーダの庭","order":125,"parentId":4,"scrollX":481,"scrollY":553.5},
 {"id":218,"expanded":false,"name":"ガルーダの巣","order":126,"parentId":217,"scrollX":959,"scrollY":594.5},
 {"id":219,"expanded":false,"name":"ガルーダ登場","order":15,"parentId":2,"scrollX":811,"scrollY":461},
-{"id":220,"expanded":true,"name":"スパニァール(夜)","order":63,"parentId":65,"scrollX":2734,"scrollY":1611},
+{"id":220,"expanded":true,"name":"スパニァール(夜)","order":63,"parentId":65,"scrollX":1081.3333333333333,"scrollY":604},
 {"id":221,"expanded":true,"name":"魚市場(夜)","order":64,"parentId":220,"scrollX":1092,"scrollY":614.6666666666666}
 ]
