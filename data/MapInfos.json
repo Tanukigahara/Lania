@@ -217,10 +217,10 @@ null,
 {"id":215,"expanded":false,"name":"アルヴァ街道","order":194,"parentId":81,"scrollX":2184,"scrollY":1221.3333333333333},
 {"id":216,"expanded":false,"name":"鍛冶場","order":188,"parentId":116,"scrollX":1089.3333333333333,"scrollY":596},
 {"id":217,"expanded":true,"name":"ガルーダの庭","order":125,"parentId":4,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
-{"id":218,"expanded":false,"name":"ガルーダの巣","order":126,"parentId":217,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
+{"id":218,"expanded":false,"name":"ガルーダの巣","order":126,"parentId":217,"scrollX":1216.5,"scrollY":768},
 {"id":219,"expanded":false,"name":"ガルーダ登場","order":15,"parentId":2,"scrollX":811,"scrollY":461},
 {"id":220,"expanded":true,"name":"スパニァール(夜)","order":63,"parentId":65,"scrollX":2343.428571428571,"scrollY":951.4285714285713},
 {"id":221,"expanded":true,"name":"魚市場(夜)","order":64,"parentId":220,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":222,"expanded":true,"name":"ラミアの巣","order":127,"parentId":4,"scrollX":610,"scrollY":1729.3333333333333},
-{"id":223,"expanded":false,"name":"ラミアの巣-内部","order":128,"parentId":222,"scrollX":1284,"scrollY":604}
+{"id":222,"expanded":true,"name":"ラミアの巣","order":127,"parentId":4,"scrollX":1216,"scrollY":900},
+{"id":223,"expanded":false,"name":"ラミアの巣-内部","order":128,"parentId":222,"scrollX":1786.909090909091,"scrollY":977.4545454545455}
 ]
