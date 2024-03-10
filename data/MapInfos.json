@@ -220,7 +220,7 @@ null,
 {"id":218,"expanded":false,"name":"ガルーダの巣","order":126,"parentId":217,"scrollX":1216.5,"scrollY":768},
 {"id":219,"expanded":false,"name":"ガルーダ登場","order":15,"parentId":2,"scrollX":811,"scrollY":461},
 {"id":220,"expanded":true,"name":"不審者クエスト１","order":63,"parentId":65,"scrollX":2061,"scrollY":453},
-{"id":221,"expanded":false,"name":"不審者クエスト2","order":64,"parentId":220,"scrollX":1769.4545454545455,"scrollY":1394.1818181818182},
+{"id":221,"expanded":false,"name":"不審者クエスト2","order":64,"parentId":220,"scrollX":973.1999999999999,"scrollY":1584},
 {"id":222,"expanded":true,"name":"ラミアの巣","order":127,"parentId":4,"scrollX":864,"scrollY":910},
 {"id":223,"expanded":false,"name":"ラミアの巣-内部","order":128,"parentId":222,"scrollX":973.1999999999999,"scrollY":910.8},
 {"id":224,"expanded":false,"name":"馬車内","order":130,"parentId":215,"scrollX":982.8,"scrollY":553.1999999999999}
