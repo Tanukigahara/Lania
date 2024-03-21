@@ -222,6 +222,6 @@ null,
 {"id":220,"expanded":true,"name":"不審者クエスト１","order":63,"parentId":65,"scrollX":1638,"scrollY":922},
 {"id":221,"expanded":false,"name":"不審者クエスト2","order":64,"parentId":220,"scrollX":1622,"scrollY":1002},
 {"id":222,"expanded":true,"name":"ラミアの巣","order":127,"parentId":4,"scrollX":869,"scrollY":943},
-{"id":223,"expanded":false,"name":"ラミアの巣-内部","order":128,"parentId":222,"scrollX":1088,"scrollY":1032},
+{"id":223,"expanded":false,"name":"ラミアの巣-内部","order":128,"parentId":222,"scrollX":1088,"scrollY":952},
 {"id":224,"expanded":false,"name":"馬車内","order":130,"parentId":215,"scrollX":819,"scrollY":461}
 ]
