@@ -228,5 +228,5 @@ null,
 {"id":226,"expanded":true,"name":"スパニァール(夜)","order":60,"parentId":65,"scrollX":2998.4,"scrollY":1078.4},
 {"id":227,"expanded":false,"name":"結婚式イベント用","order":64,"parentId":226,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":228,"expanded":false,"name":"運び屋護衛クエスト洞窟","order":117,"parentId":177,"scrollX":2384,"scrollY":2726},
-{"id":229,"expanded":true,"name":"ガルーダ戦場","order":140,"parentId":1,"scrollX":1333.0909090909092,"scrollY":1325.4545454545455}
+{"id":229,"expanded":true,"name":"ガルーダ戦場","order":140,"parentId":1,"scrollX":1318,"scrollY":2012}
 ]
