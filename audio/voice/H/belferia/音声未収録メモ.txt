@@ -19,3 +19,12 @@
 なかに、はいってるよぉ
 
 
+
+
+
+SV_PLAY_VOICE H/belferia/story/001 90 100 0 2 1
+
+
+
+
+
