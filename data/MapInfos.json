@@ -16,7 +16,7 @@ null,
 {"id":14,"expanded":true,"name":"酒場","order":20,"parentId":10,"scrollX":1088.6666666666667,"scrollY":614.6666666666666},
 {"id":15,"expanded":true,"name":"宿屋","order":21,"parentId":10,"scrollX":728,"scrollY":409.77777777777777},
 {"id":16,"expanded":true,"name":"レオンベルグ城壁外","order":10,"parentId":52,"scrollX":1082,"scrollY":756},
-{"id":17,"expanded":true,"name":"関所内","order":12,"parentId":2,"scrollX":1078,"scrollY":908},
+{"id":17,"expanded":true,"name":"関所内","order":12,"parentId":2,"scrollX":1251.6,"scrollY":1053.6},
 {"id":18,"expanded":true,"name":"地域マップ","order":221,"parentId":0,"scrollX":973.3333333333334,"scrollY":849.7777777777778},
 {"id":19,"expanded":true,"name":"シュナイダー遺跡","order":98,"parentId":4,"scrollX":815.1111111111111,"scrollY":797.3333333333334},
 {"id":20,"expanded":true,"name":"スラムマーケット","order":25,"parentId":16,"scrollX":1150.2222222222222,"scrollY":453.3333333333333},
@@ -228,5 +228,5 @@ null,
 {"id":226,"expanded":true,"name":"スパニァール(夜)","order":60,"parentId":65,"scrollX":2998.6666666666665,"scrollY":1078.6666666666667},
 {"id":227,"expanded":false,"name":"結婚式イベント用","order":64,"parentId":226,"scrollX":720.8888888888889,"scrollY":409.77777777777777},
 {"id":228,"expanded":false,"name":"運び屋護衛クエスト洞窟","order":117,"parentId":177,"scrollX":2384,"scrollY":2726.222222222222},
-{"id":229,"expanded":true,"name":"ガルーダ戦場","order":140,"parentId":1,"scrollX":2396.6666666666665,"scrollY":1397.3333333333333}
+{"id":229,"expanded":true,"name":"ガルーダ戦場","order":140,"parentId":1,"scrollX":1251.6,"scrollY":2529.6}
 ]
