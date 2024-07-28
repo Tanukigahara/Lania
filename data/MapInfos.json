@@ -229,7 +229,7 @@ null,
 {"id":227,"expanded":false,"name":"結婚式イベント用","order":64,"parentId":226,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":228,"expanded":false,"name":"運び屋護衛クエスト洞窟","order":117,"parentId":177,"scrollX":1946.3999999999999,"scrollY":3328.7999999999997},
 {"id":229,"expanded":true,"name":"ガルーダ戦場","order":140,"parentId":1,"scrollX":973.1999999999999,"scrollY":3054},
-{"id":230,"expanded":false,"name":"宿屋テンプレート","order":231,"parentId":125,"scrollX":472,"scrollY":416},
+{"id":230,"expanded":false,"name":"宿屋テンプレート","order":231,"parentId":125,"scrollX":451.79999999999995,"scrollY":543},
 null,
 {"id":232,"expanded":false,"name":"ゲームスタートスイッチ確認","order":230,"parentId":125,"scrollX":585,"scrollY":543}
 ]
