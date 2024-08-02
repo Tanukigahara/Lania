@@ -71,5 +71,6 @@ var $plugins =
 {"name":"NRP_ElementEX","status":true,"description":"v1.00 属性有効度を拡張し、吸収などを実現","parameters":{"ElementRateMax":"4.00","ElementRateMin":"0.00"}},
 {"name":"EquipState","status":true,"description":"ステート付与装備 v1.1.0","parameters":{}},
 {"name":"NRP_AutoState","status":true,"description":"v1.01 自動でステートを付加する。","parameters":{"AutoStateOnlyBattle":"false"}},
-{"name":"MAT_Battlecontractor","status":true,"description":"ver1.00 戦え……戦え……","parameters":{}}
+{"name":"MAT_Battlecontractor","status":true,"description":"ver1.00 戦え……戦え……","parameters":{}},
+{"name":"NRP_CallEnemy","status":true,"description":"v1.03 敵キャラの『仲間を呼ぶ』を実装します。","parameters":{"MaxEnemyNo":"3","SuccessMessage":"%1が現れた！","FailureMessage":"しかし仲間は現れなかった！","LinkDynamicAppear":"false"}}
 ];
