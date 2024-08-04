@@ -194,6 +194,7 @@ Imported['ChangeEquipBattle'] = 1.00;
         this._eSlotWindow.activate();
         this._eSlotWindow.select(0);
         this._activeEquip = true;
+        this._eSlotWindow.refresh();
     };
 
     Scene_Battle.prototype.createEquipStatusWindow = function() {
