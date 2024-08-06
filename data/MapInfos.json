@@ -233,5 +233,5 @@ null,
 {"id":231,"expanded":true,"name":"スタッフ駐在所(結婚後)","order":103,"parentId":104,"scrollX":501.59999999999997,"scrollY":542.4},
 {"id":232,"expanded":false,"name":"ゲームスタートスイッチ確認","order":231,"parentId":125,"scrollX":655.2,"scrollY":368.8},
 {"id":233,"expanded":false,"name":"試遊マップ","order":233,"parentId":125,"scrollX":564.5,"scrollY":332.5},
-{"id":234,"expanded":false,"name":"依頼書用","order":234,"parentId":125,"scrollX":683.4545454545455,"scrollY":446.72727272727275}
+{"id":234,"expanded":false,"name":"依頼書用","order":234,"parentId":125,"scrollX":675.5,"scrollY":438.5}
 ]
