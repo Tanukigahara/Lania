@@ -79,5 +79,6 @@ var $plugins =
 {"name":"MAT_Battlecontractor","status":true,"description":"ver1.00 戦え……戦え……","parameters":{}},
 {"name":"NRP_CallEnemy","status":true,"description":"v1.03 敵キャラの『仲間を呼ぶ』を実装します。","parameters":{"MaxEnemyNo":"3","SuccessMessage":"%1が現れた！","FailureMessage":"しかし仲間は現れなかった！","LinkDynamicAppear":"false"}},
 {"name":"YEP_X_EquipCustomize","status":true,"description":"v1.02 (要YEP_ItemCore、YEP_EquipCore)\r\n装備メニューに「カスタマイズ」コマンドを追加します。","parameters":{"Command Name":"カスタマイズ","Default Enable":"true"}},
-{"name":"TimingInvokeCommon","status":true,"description":"ver1.00/場所移動時や戦闘開始時、戦闘終了時等にコモンイベントを予約します。","parameters":{"TransferCommonID":"532","BattleStartCommonID":"532","BattleEndCommonID":"532"}}
+{"name":"TimingInvokeCommon","status":true,"description":"ver1.00/場所移動時や戦闘開始時、戦闘終了時等にコモンイベントを予約します。","parameters":{"TransferCommonID":"532","BattleStartCommonID":"532","BattleEndCommonID":"532"}},
+{"name":"YKNR_ShopSettingsEx","status":true,"description":"ショップの設定を拡張します。装備コマンドの追加や\r\n価格レートの設定、売却専用ショップなどが設定できます。","parameters":{"BuyPriceRate":"{\"Base\":\"100\",\"UseVar\":\"0\"}","SellPriceRate":"{\"Base\":\"50\",\"UseVar\":\"0\"}","IsEnableEquipment":"true","IsDirectOpenList":"false","IsSortForSellList":"true"}}
 ];
